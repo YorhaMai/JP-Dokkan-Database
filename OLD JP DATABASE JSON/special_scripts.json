@@ -1,0 +1,2960 @@
+[
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "1",
+        "script_name": "sp0001"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "2",
+        "script_name": "sp0002"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "3",
+        "script_name": "sp0003"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "4",
+        "script_name": "sp0004"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "5",
+        "script_name": "sp0005"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "6",
+        "script_name": "sp0007"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "7",
+        "script_name": "sp0008"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "8",
+        "script_name": "sp0009"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "9",
+        "script_name": "sp0010"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "10",
+        "script_name": "sp0012"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "11",
+        "script_name": "sp0013"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "12",
+        "script_name": "sp0014"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "13",
+        "script_name": "sp0015"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "14",
+        "script_name": "sp0016"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "15",
+        "script_name": "sp0017"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "16",
+        "script_name": "sp0018"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "17",
+        "script_name": "sp0019"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "18",
+        "script_name": "sp0020"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "19",
+        "script_name": "sp0021"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "20",
+        "script_name": "sp0022"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "21",
+        "script_name": "sp0023"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "22",
+        "script_name": "sp0024"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "23",
+        "script_name": "sp0025"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "24",
+        "script_name": "sp0026"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "25",
+        "script_name": "sp0027"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "26",
+        "script_name": "sp0028"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "27",
+        "script_name": "sp0029"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "28",
+        "script_name": "sp0030"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "29",
+        "script_name": "sp0031"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "30",
+        "script_name": "sp0033"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "31",
+        "script_name": "sp0034"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "32",
+        "script_name": "sp0035"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "33",
+        "script_name": "sp0036"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "34",
+        "script_name": "sp0039"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "35",
+        "script_name": "sp0040"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "36",
+        "script_name": "sp0041"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "37",
+        "script_name": "sp0043"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "38",
+        "script_name": "sp0049"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "39",
+        "script_name": "sp0051"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "40",
+        "script_name": "sp0053"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "41",
+        "script_name": "sp0054"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "42",
+        "script_name": "sp0055"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "43",
+        "script_name": "sp0056"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "44",
+        "script_name": "sp0057"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "45",
+        "script_name": "sp0058"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "46",
+        "script_name": "sp0059"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "47",
+        "script_name": "sp0060"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "48",
+        "script_name": "sp0061"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "49",
+        "script_name": "sp0063"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "50",
+        "script_name": "sp0064"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "51",
+        "script_name": "sp0065"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "52",
+        "script_name": "sp0066"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "53",
+        "script_name": "sp0067"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "54",
+        "script_name": "sp0068"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "55",
+        "script_name": "sp0069"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "56",
+        "script_name": "sp0070"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "57",
+        "script_name": "sp0071"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "58",
+        "script_name": "sp0072"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "59",
+        "script_name": "sp0073"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "60",
+        "script_name": "sp0074"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "61",
+        "script_name": "sp0077"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "62",
+        "script_name": "sp0078"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "63",
+        "script_name": "sp0082"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "64",
+        "script_name": "sp0083"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "65",
+        "script_name": "sp0084"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "66",
+        "script_name": "sp0085"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "67",
+        "script_name": "sp0086"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "68",
+        "script_name": "sp0087"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "69",
+        "script_name": "sp0088"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "70",
+        "script_name": "sp0089"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "71",
+        "script_name": "sp0090"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "72",
+        "script_name": "sp0091"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "73",
+        "script_name": "sp0093"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "74",
+        "script_name": "sp0095"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "75",
+        "script_name": "sp0100"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "76",
+        "script_name": "sp0101"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "77",
+        "script_name": "sp0102"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "78",
+        "script_name": "sp0103"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "79",
+        "script_name": "sp0105"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "80",
+        "script_name": "sp0106"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "81",
+        "script_name": "sp0107"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "82",
+        "script_name": "sp0108"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "83",
+        "script_name": "sp0109"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "84",
+        "script_name": "sp0110"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "85",
+        "script_name": "sp0112"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "86",
+        "script_name": "sp0113"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "87",
+        "script_name": "sp0114"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "88",
+        "script_name": "sp0115"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "89",
+        "script_name": "sp0116"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "90",
+        "script_name": "sp0118"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "91",
+        "script_name": "sp0119"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "92",
+        "script_name": "sp0120"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "93",
+        "script_name": "sp0121"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "94",
+        "script_name": "sp0122"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "95",
+        "script_name": "sp0123"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "96",
+        "script_name": "sp0124"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "97",
+        "script_name": "sp0125"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "98",
+        "script_name": "sp0126"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "99",
+        "script_name": "sp0128"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "100",
+        "script_name": "sp0129"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "101",
+        "script_name": "sp0131"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "102",
+        "script_name": "sp0132"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "103",
+        "script_name": "sp0133"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "104",
+        "script_name": "sp0134"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "105",
+        "script_name": "sp0139"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "106",
+        "script_name": "sp0140"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "107",
+        "script_name": "sp0141"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "108",
+        "script_name": "sp0142"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "109",
+        "script_name": "sp0143"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "110",
+        "script_name": "sp0144"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "111",
+        "script_name": "sp0146"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "112",
+        "script_name": "sp0147"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "113",
+        "script_name": "sp0148"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "114",
+        "script_name": "sp0150"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "115",
+        "script_name": "sp0151"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "116",
+        "script_name": "sp0152"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "117",
+        "script_name": "sp0153"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "118",
+        "script_name": "sp0154"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "119",
+        "script_name": "sp0155"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "120",
+        "script_name": "sp0156"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "121",
+        "script_name": "sp0157"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "122",
+        "script_name": "sp0159"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "123",
+        "script_name": "sp0161"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "124",
+        "script_name": "sp0162"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "125",
+        "script_name": "sp0163"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "126",
+        "script_name": "sp0164"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "127",
+        "script_name": "sp0165"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "128",
+        "script_name": "sp0166"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "129",
+        "script_name": "sp0168"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "130",
+        "script_name": "sp0169"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "131",
+        "script_name": "sp0170"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "132",
+        "script_name": "sp0171"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "133",
+        "script_name": "sp0172"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "134",
+        "script_name": "sp0173"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "135",
+        "script_name": "sp0174"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "136",
+        "script_name": "sp0175"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "137",
+        "script_name": "sp0177"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "138",
+        "script_name": "sp0178"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "139",
+        "script_name": "sp0182"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "140",
+        "script_name": "sp0184"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "141",
+        "script_name": "sp0187"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "142",
+        "script_name": "sp0191"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "143",
+        "script_name": "sp0193"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "144",
+        "script_name": "sp0196"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "145",
+        "script_name": "sp0197"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "146",
+        "script_name": "sp0198"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "147",
+        "script_name": "sp0199"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "148",
+        "script_name": "sp0200"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "149",
+        "script_name": "sp0201"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "150",
+        "script_name": "sp0202"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "151",
+        "script_name": "sp0203"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "152",
+        "script_name": "sp0204"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "153",
+        "script_name": "sp0205"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "154",
+        "script_name": "sp0207"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "155",
+        "script_name": "sp0208"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "156",
+        "script_name": "sp0209"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "157",
+        "script_name": "sp0210"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "158",
+        "script_name": "sp0211"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "159",
+        "script_name": "sp0212"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "160",
+        "script_name": "sp0213"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "161",
+        "script_name": "sp0214"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "162",
+        "script_name": "sp0215"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "163",
+        "script_name": "sp0216"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "164",
+        "script_name": "sp0218"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "165",
+        "script_name": "sp0219"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "166",
+        "script_name": "sp0220"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "167",
+        "script_name": "sp0221"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "168",
+        "script_name": "sp0222"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "169",
+        "script_name": "sp0223"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "170",
+        "script_name": "sp0224"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "171",
+        "script_name": "sp0225"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "172",
+        "script_name": "sp0226"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "173",
+        "script_name": "sp0227"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "174",
+        "script_name": "sp0228"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "175",
+        "script_name": "sp0229"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "176",
+        "script_name": "sp0230"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "177",
+        "script_name": "sp0231"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "178",
+        "script_name": "sp0232"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "179",
+        "script_name": "sp0234"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "180",
+        "script_name": "sp0235"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "181",
+        "script_name": "sp0237"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "182",
+        "script_name": "sp0239"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "183",
+        "script_name": "sp0241"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "184",
+        "script_name": "sp0242"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "185",
+        "script_name": "sp0244"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "186",
+        "script_name": "sp0245"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "187",
+        "script_name": "sp0246"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "188",
+        "script_name": "sp0247"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "189",
+        "script_name": "sp0248"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "190",
+        "script_name": "sp0250"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "191",
+        "script_name": "sp0251"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "192",
+        "script_name": "sp0252"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "193",
+        "script_name": "sp0253"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "194",
+        "script_name": "sp0254"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "195",
+        "script_name": "sp0255"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "196",
+        "script_name": "sp0257"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "197",
+        "script_name": "sp0259"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "198",
+        "script_name": "sp0260"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "199",
+        "script_name": "sp0261"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "200",
+        "script_name": "sp0262"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "201",
+        "script_name": "sp0263"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "202",
+        "script_name": "sp0264"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "203",
+        "script_name": "sp0265"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "204",
+        "script_name": "sp0266"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "205",
+        "script_name": "sp0268"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "206",
+        "script_name": "sp0270"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "207",
+        "script_name": "sp0271"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "208",
+        "script_name": "sp0275"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "209",
+        "script_name": "sp0276"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "210",
+        "script_name": "sp0277"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "211",
+        "script_name": "sp0278"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "212",
+        "script_name": "sp0279"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "213",
+        "script_name": "sp0280"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "214",
+        "script_name": "sp0281"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "215",
+        "script_name": "sp0282"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "216",
+        "script_name": "sp0290"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "217",
+        "script_name": "sp0292"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "218",
+        "script_name": "sp0293"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "219",
+        "script_name": "sp0294"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "220",
+        "script_name": "sp0295"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "221",
+        "script_name": "sp0296"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "222",
+        "script_name": "sp0297"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "223",
+        "script_name": "sp0298"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "224",
+        "script_name": "sp0299"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "225",
+        "script_name": "sp0300"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "226",
+        "script_name": "sp0301"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "227",
+        "script_name": "sp0302"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "228",
+        "script_name": "sp0303"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "229",
+        "script_name": "sp0304"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "230",
+        "script_name": "sp0305"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "231",
+        "script_name": "sp0307"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "232",
+        "script_name": "sp0308"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "233",
+        "script_name": "sp0309"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "234",
+        "script_name": "sp0312"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "235",
+        "script_name": "sp0313"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "236",
+        "script_name": "sp0314"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "237",
+        "script_name": "sp0315"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "238",
+        "script_name": "sp0317"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "239",
+        "script_name": "sp0319"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "240",
+        "script_name": "sp0320"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "241",
+        "script_name": "sp0321"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "242",
+        "script_name": "sp0236"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "243",
+        "script_name": "sp0322"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "244",
+        "script_name": "sp0324"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "245",
+        "script_name": "sp0325"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "246",
+        "script_name": "sp0326"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "247",
+        "script_name": "sp0331"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "248",
+        "script_name": "sp0332"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "249",
+        "script_name": "sp0342"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "250",
+        "script_name": "sp0347"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "251",
+        "script_name": "sp0339"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "252",
+        "script_name": "sp0340"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "253",
+        "script_name": "sp0341"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "254",
+        "script_name": "sp0343"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "255",
+        "script_name": "sp0344"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "256",
+        "script_name": "sp0345"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "257",
+        "script_name": "sp0346"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "258",
+        "script_name": "sp0349"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "259",
+        "script_name": "sp0333"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "260",
+        "script_name": "sp0336"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "261",
+        "script_name": "sp0350"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "262",
+        "script_name": "sp0351"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "263",
+        "script_name": "sp0334"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "264",
+        "script_name": "sp0335"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "265",
+        "script_name": "sp0337"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "266",
+        "script_name": "sp0338"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "267",
+        "script_name": "sp0352"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "268",
+        "script_name": "sp0353"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "269",
+        "script_name": "sp0354"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "270",
+        "script_name": "sp0355"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "271",
+        "script_name": "sp0356"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "272",
+        "script_name": "sp0357"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "273",
+        "script_name": "sp0359"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "274",
+        "script_name": "sp0360"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "275",
+        "script_name": "sp0361"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "276",
+        "script_name": "sp0362"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "277",
+        "script_name": "sp0363"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "278",
+        "script_name": "sp0364"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "279",
+        "script_name": "sp0370"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "280",
+        "script_name": "sp0365"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "281",
+        "script_name": "sp0366"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "282",
+        "script_name": "sp0367"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "283",
+        "script_name": "sp0368"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "284",
+        "script_name": "sp0369"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "285",
+        "script_name": "sp0371"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "286",
+        "script_name": "sp0372"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "287",
+        "script_name": "sp0373"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "288",
+        "script_name": "sp0374"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "289",
+        "script_name": "sp0375"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "290",
+        "script_name": "sp0376"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "291",
+        "script_name": "sp0382"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "292",
+        "script_name": "sp0380"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "293",
+        "script_name": "sp0381"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "294",
+        "script_name": "sp0377"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "295",
+        "script_name": "sp0378"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "296",
+        "script_name": "sp0379"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "297",
+        "script_name": "sp0383"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "298",
+        "script_name": "sp0384"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "299",
+        "script_name": "sp0385"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "300",
+        "script_name": "sp0386"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "301",
+        "script_name": "sp0387"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "302",
+        "script_name": "sp0388"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "303",
+        "script_name": "sp0389"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "304",
+        "script_name": "sp0390"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "305",
+        "script_name": "sp0391"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "306",
+        "script_name": "sp0392"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "307",
+        "script_name": "sp0393"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "308",
+        "script_name": "sp0394"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "309",
+        "script_name": "sp0395"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "310",
+        "script_name": "sp0396"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "311",
+        "script_name": "sp0397"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "312",
+        "script_name": "sp0398"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "313",
+        "script_name": "sp0399"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "314",
+        "script_name": "sp0400"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "315",
+        "script_name": "sp0401"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "316",
+        "script_name": "sp0402"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "317",
+        "script_name": "sp0403"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "318",
+        "script_name": "sp0404"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "319",
+        "script_name": "sp0405"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "320",
+        "script_name": "sp0406"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "321",
+        "script_name": "sp0407"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "322",
+        "script_name": "sp0408"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "323",
+        "script_name": "sp0409"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "324",
+        "script_name": "sp0410"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "325",
+        "script_name": "sp0411"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "326",
+        "script_name": "sp0412"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "327",
+        "script_name": "sp0413"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "328",
+        "script_name": "sp0414"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "329",
+        "script_name": "sp0415"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "330",
+        "script_name": "sp0416"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "331",
+        "script_name": "sp0417"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "332",
+        "script_name": "sp0418"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "333",
+        "script_name": "sp0419"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "334",
+        "script_name": "sp0420"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "335",
+        "script_name": "sp0421"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "336",
+        "script_name": "sp0422"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "337",
+        "script_name": "sp0423"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "338",
+        "script_name": "sp0424"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "339",
+        "script_name": "sp0425"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "340",
+        "script_name": "sp0426"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "341",
+        "script_name": "sp0427"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "342",
+        "script_name": "sp0428"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "343",
+        "script_name": "sp0429"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "344",
+        "script_name": "sp0430"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "345",
+        "script_name": "sp0431"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "346",
+        "script_name": "sp0432"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "347",
+        "script_name": "sp0433"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "348",
+        "script_name": "sp0434"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "349",
+        "script_name": "sp0435"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "350",
+        "script_name": "sp0436"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "351",
+        "script_name": "sp0437"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "352",
+        "script_name": "sp0438"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "353",
+        "script_name": "sp0439"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "354",
+        "script_name": "sp0440"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "355",
+        "script_name": "sp0441"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "356",
+        "script_name": "sp0442"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "357",
+        "script_name": "sp0443"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "358",
+        "script_name": "sp0444"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "359",
+        "script_name": "sp0446"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "360",
+        "script_name": "sp0445"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "361",
+        "script_name": "sp0447"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "362",
+        "script_name": "sp0450"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "363",
+        "script_name": "sp0448"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "364",
+        "script_name": "sp0449"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "365",
+        "script_name": "sp0451"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "366",
+        "script_name": "sp0452"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "367",
+        "script_name": "sp0453"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "369",
+        "script_name": "sp0455"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "370",
+        "script_name": "sp0456"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "371",
+        "script_name": "sp0457"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "372",
+        "script_name": "sp0458"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "373",
+        "script_name": "sp0459"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "374",
+        "script_name": "sp0460"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "375",
+        "script_name": "sp0461"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "376",
+        "script_name": "sp0462"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "377",
+        "script_name": "sp0463"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "378",
+        "script_name": "sp0464"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "379",
+        "script_name": "sp0465"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "380",
+        "script_name": "sp0466"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "381",
+        "script_name": "sp0467"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "382",
+        "script_name": "sp0468"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "383",
+        "script_name": "sp0469"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "384",
+        "script_name": "sp0477"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "385",
+        "script_name": "sp0470"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "386",
+        "script_name": "sp0471"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "387",
+        "script_name": "sp0472"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "388",
+        "script_name": "sp0473"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "389",
+        "script_name": "sp0474"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "390",
+        "script_name": "sp0475"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "391",
+        "script_name": "sp0478"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "392",
+        "script_name": "sp0479"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "393",
+        "script_name": "sp0476"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "394",
+        "script_name": "sp0481"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "395",
+        "script_name": "sp0482"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "396",
+        "script_name": "sp0483"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "397",
+        "script_name": "sp0484"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "398",
+        "script_name": "sp0485"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "399",
+        "script_name": "sp0486"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "400",
+        "script_name": "sp0487"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "401",
+        "script_name": "sp0489"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "402",
+        "script_name": "sp0491"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "403",
+        "script_name": "sp0492"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "404",
+        "script_name": "sp0494"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "405",
+        "script_name": "sp0495"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "406",
+        "script_name": "sp0496"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "407",
+        "script_name": "sp0493"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "408",
+        "script_name": "sp0488"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "409",
+        "script_name": "sp0497"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "410",
+        "script_name": "sp0498"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "411",
+        "script_name": "sp0499"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "412",
+        "script_name": "sp0500"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "413",
+        "script_name": "sp0501"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "414",
+        "script_name": "sp0502"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "415",
+        "script_name": "sp0503"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "416",
+        "script_name": "sp0504"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "417",
+        "script_name": "sp0505"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "418",
+        "script_name": "sp0506"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "419",
+        "script_name": "sp0513"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "420",
+        "script_name": "sp0515"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "421",
+        "script_name": "sp0516"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "422",
+        "script_name": "sp0518"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "423",
+        "script_name": "sp0520"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "424",
+        "script_name": "sp0507"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "425",
+        "script_name": "sp0508"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "426",
+        "script_name": "sp0509"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "428",
+        "script_name": "sp0511"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "429",
+        "script_name": "sp0512"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "430",
+        "script_name": "sp0514"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "431",
+        "script_name": "sp0517"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "432",
+        "script_name": "sp0519"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "433",
+        "script_name": "sp0521"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "434",
+        "script_name": "sp0524"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "435",
+        "script_name": "sp0526"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "436",
+        "script_name": "sp0525"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "437",
+        "script_name": "ut0001"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "438",
+        "script_name": "ut0002"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "439",
+        "script_name": "sp0528"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "440",
+        "script_name": "sp0529"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "441",
+        "script_name": "sp0530"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "442",
+        "script_name": "sp0531"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "443",
+        "script_name": "sp0532"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "444",
+        "script_name": "sp0533"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "445",
+        "script_name": "sp0534"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "446",
+        "script_name": "sp0535"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "447",
+        "script_name": "sp0527"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "448",
+        "script_name": "sp0537"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "449",
+        "script_name": "sp0536"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "450",
+        "script_name": "sp0538"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "451",
+        "script_name": "sp0539"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "452",
+        "script_name": "sp0540"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "453",
+        "script_name": "sp0541"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "454",
+        "script_name": "sp0522"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "455",
+        "script_name": "sp0523"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "456",
+        "script_name": "sp0542"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "457",
+        "script_name": "sp0543"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "458",
+        "script_name": "sp0552"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "459",
+        "script_name": "sp0553"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "460",
+        "script_name": "sp0545"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "461",
+        "script_name": "sp0546"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "462",
+        "script_name": "sp0547"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "463",
+        "script_name": "ut0004"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "464",
+        "script_name": "sp0555"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "465",
+        "script_name": "sp0548"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "466",
+        "script_name": "sp0549"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "467",
+        "script_name": "sp0550"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "468",
+        "script_name": "sp0551"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "469",
+        "script_name": "sp0556"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "470",
+        "script_name": "sp0557"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "471",
+        "script_name": "sp0558"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "472",
+        "script_name": "sp0554"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "473",
+        "script_name": "sp0560"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "474",
+        "script_name": "sp0566"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "475",
+        "script_name": "sp0561"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "476",
+        "script_name": "sp0562"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "477",
+        "script_name": "sp0563"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "478",
+        "script_name": "sp0564"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "479",
+        "script_name": "sp0565"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "480",
+        "script_name": "sp0559"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "481",
+        "script_name": "sp0572"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "482",
+        "script_name": "sp0567"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "483",
+        "script_name": "sp0568"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "484",
+        "script_name": "sp0569"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "485",
+        "script_name": "sp0570"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "486",
+        "script_name": "sp0573"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "487",
+        "script_name": "sp0574"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "488",
+        "script_name": "sp0575"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "489",
+        "script_name": "sp0576"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "490",
+        "script_name": "sp0577"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "491",
+        "script_name": "sp0578"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "492",
+        "script_name": "sp0571"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "493",
+        "script_name": "sp0579"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "494",
+        "script_name": "sp0580"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "495",
+        "script_name": "sp0597"
+    }
+]

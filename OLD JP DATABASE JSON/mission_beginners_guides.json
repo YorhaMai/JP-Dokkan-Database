@@ -1,0 +1,182 @@
+[
+    {
+        "banner_image": "guide_01_banner_001.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_001.png",
+        "description_script_id": "3001",
+        "id": "6001",
+        "next_mission_id": "6002",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_002.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_002.png",
+        "description_script_id": "3002",
+        "id": "6002",
+        "next_mission_id": "6003",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_003.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_003.png",
+        "description_script_id": "3003",
+        "id": "6003",
+        "next_mission_id": "6004",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_004.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_004.png",
+        "description_script_id": "3004",
+        "id": "6004",
+        "next_mission_id": "6005",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_005.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_005.png",
+        "description_script_id": "3005",
+        "id": "6005",
+        "next_mission_id": "6006",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_006.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_006.png",
+        "description_script_id": "3006",
+        "id": "6006",
+        "next_mission_id": "6007",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_007.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_007.png",
+        "description_script_id": "3007",
+        "id": "6007",
+        "next_mission_id": "6008",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_008.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_008.png",
+        "description_script_id": "3008",
+        "id": "6008",
+        "next_mission_id": "6009",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_009.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_009.png",
+        "description_script_id": "3009",
+        "id": "6009",
+        "next_mission_id": "6010",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_010.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_010.png",
+        "description_script_id": "3010",
+        "id": "6010",
+        "next_mission_id": "6011",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_011.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_011.png",
+        "description_script_id": "3011",
+        "id": "6011",
+        "next_mission_id": "6012",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_012.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_012.png",
+        "description_script_id": "3012",
+        "id": "6012",
+        "next_mission_id": "6013",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_013.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_013.png",
+        "description_script_id": "3013",
+        "id": "6013",
+        "next_mission_id": "6014",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_014.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_014.png",
+        "description_script_id": "3014",
+        "id": "6014",
+        "next_mission_id": "6015",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_015.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_015.png",
+        "description_script_id": "3015",
+        "id": "6015",
+        "next_mission_id": "6016",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_016.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_016.png",
+        "description_script_id": "3016",
+        "id": "6016",
+        "next_mission_id": "6017",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_017.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_detail_017.png",
+        "description_script_id": "3017",
+        "id": "6017",
+        "next_mission_id": "6018",
+        "updated_at": "2016-09-01 02:17:41"
+    },
+    {
+        "banner_image": "guide_01_banner_017.png",
+        "beginners_guide_id": "1",
+        "created_at": "2016-09-01 02:17:41",
+        "description_image": "guide_01_finish.png",
+        "description_script_id": "3018",
+        "id": "6018",
+        "next_mission_id": "0",
+        "updated_at": "2016-09-01 02:17:41"
+    }
+]

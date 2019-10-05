@@ -1,0 +1,62 @@
+[
+    {
+        "bgm_id": "",
+        "created_at": "2015-01-29 20:21:39",
+        "height": "2000",
+        "id": "1",
+        "layer0": "0",
+        "layer1": "1",
+        "layer2": "2",
+        "layer3": "3",
+        "name": "地球",
+        "prev_world_id": "",
+        "split": "2",
+        "updated_at": "2015-08-04 07:17:24",
+        "width": "3000"
+    },
+    {
+        "bgm_id": "",
+        "created_at": "2015-01-29 20:21:39",
+        "height": "2500",
+        "id": "101",
+        "layer0": "0",
+        "layer1": "1",
+        "layer2": "2",
+        "layer3": "3",
+        "name": "ナメック星",
+        "prev_world_id": "",
+        "split": "1",
+        "updated_at": "2015-08-04 07:17:24",
+        "width": "2500"
+    },
+    {
+        "bgm_id": "",
+        "created_at": "2015-01-29 20:21:39",
+        "height": "2500",
+        "id": "201",
+        "layer0": "0",
+        "layer1": "1",
+        "layer2": "2",
+        "layer3": "3",
+        "name": "あの世",
+        "prev_world_id": "",
+        "split": "1",
+        "updated_at": "2015-08-04 07:17:24",
+        "width": "2500"
+    },
+    {
+        "bgm_id": "",
+        "created_at": "2015-04-30 03:31:05",
+        "height": "1000",
+        "id": "1001",
+        "layer0": "0",
+        "layer1": "0",
+        "layer2": "0",
+        "layer3": "0",
+        "name": "チュートリアル",
+        "prev_world_id": "9999",
+        "split": "0",
+        "updated_at": "2015-08-04 07:17:24",
+        "width": "1000"
+    }
+]

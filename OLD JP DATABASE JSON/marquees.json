@@ -1,0 +1,709 @@
+[
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "メニューを選択して下さい。",
+        "id": "1",
+        "scene_name": "CharacterMenuScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "キャラクター枠をタップすると、キャラクター選択に移ります。",
+        "id": "2",
+        "scene_name": "TeamListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "左上のZマークボタンを押すと編成からキャラを外せます。",
+        "id": "3",
+        "scene_name": "TeamMemberSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "1体から6体まで順番に編成できます。",
+        "id": "4",
+        "scene_name": "TeamMemberPackSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "最大99体までまとめて売却できます。",
+        "id": "5",
+        "scene_name": "CharacterSellScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "修業で強化させるキャラクターを選択して下さい。",
+        "id": "6",
+        "scene_name": "CharacterTrainingScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "必殺技Lvアップの抽選は修業相手毎に行われます。修業キャラクターと同属性の修業相手を選択するとボーナスがつきます。",
+        "id": "7",
+        "scene_name": "TrainingSelectPartnersScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "修業アイテムを選択してください。同じアイテムであれば1種類につき最大10個まで使用することができます。",
+        "id": "8",
+        "scene_name": "TrainingSelectItemsScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「荒野」以外の修業場所は使用回数制限があります。修業場所はログインボーナスや冒険で手に入ります。",
+        "id": "9",
+        "scene_name": "TrainingSelectFieldScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "覚醒させたいキャラクターを選択して下さい。",
+        "id": "10",
+        "scene_name": "AwakenTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "覚醒に使用するメダルを選択して下さい。Z覚醒はキャラクターLv最大時のみ行えます。",
+        "id": "11",
+        "scene_name": "AwakenScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "キャラクタータップで詳細を確認できます。詳細画面では、キャラクターをお気に入り登録することができます。",
+        "id": "12",
+        "scene_name": "CharacterListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持している各種アイテムを確認することができます。",
+        "id": "13",
+        "scene_name": "ItemBoxScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "タップで詳細を確認できます。",
+        "id": "14",
+        "scene_name": "TrainingItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "タップで詳細を確認できます。",
+        "id": "15",
+        "scene_name": "AwakenItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "タップで詳細を確認できます。",
+        "id": "16",
+        "scene_name": "SupportItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "獲得したことがあるキャラクターを確認できます。",
+        "id": "17",
+        "scene_name": "EncyclopediaTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "友情ポイントで友情ガシャ、龍石でレアガシャができます。",
+        "id": "18",
+        "scene_name": "GashaMenuScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "キャラクタータップで詳細を確認できます。",
+        "id": "19",
+        "scene_name": "GashaResultScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "龍石を購入することができます。未成年の方は親権者の同意をもらってから龍石を購入してください。",
+        "id": "21",
+        "scene_name": "ShopMenuScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "ドラゴンボール収集状況です。未取得のドラゴンボールをタップすると落ちている場所が確認できます。",
+        "id": "22",
+        "scene_name": "DragonBallListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "フレンドメニューを選択して下さい。",
+        "id": "23",
+        "scene_name": "FriendMenuScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "あなたのフレンド一覧です。フレンド数は上限があります。",
+        "id": "24",
+        "scene_name": "FriendListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "検索するユーザーのIDを入力して下さい。",
+        "id": "25",
+        "scene_name": "FriendSearchScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "フレンド申請は30件以上受け取れません。また30日以上経過すると、自動的に申請は拒否されます。",
+        "id": "26",
+        "scene_name": "FriendApprovalScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "一度に表示されるプレゼントは100件までです。新しい順、古い順で並べ替えることが出来ます。",
+        "id": "27",
+        "scene_name": "PresentScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "メニューを選択して下さい。",
+        "id": "28",
+        "scene_name": "OtherMenuScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "機種変更方法の確認や、機種変更コードの発行が行えます。",
+        "id": "29",
+        "scene_name": "ChangeDeviceScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "各種設定変更が行えます。",
+        "id": "30",
+        "scene_name": "SetOptionsScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "メニューを選択して下さい。",
+        "id": "31",
+        "scene_name": "HelpListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "絵文字や全角10文字を超える場合は登録できません。",
+        "id": "32",
+        "scene_name": "HelpNameChangeScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "今月を含めた直近3ヶ月の購入履歴を確認できます。",
+        "id": "33",
+        "scene_name": "HelpPurchaseRecordScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "各種利用規約やコピーライトが確認できます。",
+        "id": "34",
+        "scene_name": "HelpCopyrightScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "冒険したいエリアを選択して下さい。",
+        "id": "35",
+        "scene_name": "AdventureWorldMapScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "冒険したいステージを選択して下さい。巻物がついているステージには「界王神からの試練」があります。",
+        "id": "36",
+        "scene_name": "AdventureAreaMapScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "冒険したい難易度を選択して下さい。難易度によって必要なACT、敵の強さ、報酬内容が異なります。巻物がついている難易度には「界王神からの試練」があります。",
+        "id": "37",
+        "scene_name": "SelectDifficultyBaseScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "一緒に冒険するフレンドを選択して下さい。",
+        "id": "38",
+        "scene_name": "SelectCompanyBaseScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "冒険開始前の最終確認です。左右にスワイプするとチームを変更できます。問題がなければ「挑む！」を押して下さい。",
+        "id": "39",
+        "scene_name": "SelectTeamBaseScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "冒険開始前の最終確認です。左右にスワイプするとチームを変更できます。問題がなければ「挑む！」を押して下さい。",
+        "id": "40",
+        "scene_name": "SelectTeamScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "修業するためには、修業相手1体か修業アイテム1個以上セットしてください。",
+        "id": "41",
+        "scene_name": "TrainingMainScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "イベントを選択して下さい。",
+        "id": "42",
+        "scene_name": "EventTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "挑戦するイベントステージを選択して下さい。",
+        "id": "43",
+        "scene_name": "EventQuestSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "各ミッションをタップすると、一覧が確認できます。赤丸の数字は、受取可能な報酬の数を示しています。",
+        "id": "44",
+        "scene_name": "MissionTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "詳細でミッション詳細を確認できます。達成済のものは、タップすることで報酬受取画面に移ります。",
+        "id": "45",
+        "scene_name": "MissionSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "キャラクタータップで図鑑に移ります。",
+        "id": "46",
+        "scene_name": "CollectionCardTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "取得済のものは最大レベル時のパラメータが表示されます。Z覚醒未入手の場合は通常状態が表示されます。",
+        "id": "47",
+        "scene_name": "CollectionUniqueCardScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「参加する」ボタンでトーナメントに参加します。ラウンド(予選や準決勝、決勝)を終えると、総合武道会ptに反映されます。",
+        "id": "48",
+        "scene_name": "TenkaichiHomeScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「リタイア」をすると参加中のトーナメントを終了し、獲得中の武道会ptが総合武道会ptに反映されます。",
+        "id": "49",
+        "scene_name": "TenkaichiProgressComfirmScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "一緒にトーナメントに参加するフレンドを選択して下さい。",
+        "id": "50",
+        "scene_name": "TenkaichiSelectCompanyScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "最終確認画面です。トーナメント参加中はチームの変更ができず、参加中チーム編成も行えません。",
+        "id": "51",
+        "scene_name": "TenkaichiSelectTeamScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「武道会pt」によるランキングです。「ローカルランキング」は期間中に獲得した武道会ptによってランキングが変動します。また、ランキングは更新されるまで時間がかかる場合があります。",
+        "id": "52",
+        "scene_name": "TenkaichiRankScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "現在のクラスを確認できます。クラスは「総合武道会pt」によって決定されます。",
+        "id": "53",
+        "scene_name": "TenkaichiClassScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "ランキングやミッションによる報酬内容を確認できます。ランキング報酬、ローカルランキング報酬の配布時期については「お知らせ」を確認して下さい。",
+        "id": "54",
+        "scene_name": "TenkaichiRewardScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "天下一武道会の遊び方を確認できます。メニューを選択して下さい。",
+        "id": "55",
+        "scene_name": "TenkaichiHelpListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "確認したい項目を選択して下さい。",
+        "id": "56",
+        "scene_name": "TenkaichiHelpCategoryScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「<<<」ボタンで一つ前の画面に戻ります。",
+        "id": "57",
+        "scene_name": "TenkaichiHelpDetailScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "タップで詳細を確認できます。",
+        "id": "58",
+        "scene_name": "SpecialItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持アイテムやキャラクターを交換ptに替えることができます。",
+        "id": "59",
+        "scene_name": "ExchangeSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持している覚醒メダルを交換ptに替えることができます。メダルによってレートが異なります。",
+        "id": "60",
+        "scene_name": "ExchangeAwakenItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持しているサポートアイテムを交換ptに替えることができます。アイテムによってレートが異なります。",
+        "id": "61",
+        "scene_name": "ExchangeSupportItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持している修業アイテムを交換ptに替えることができます。アイテムによってレートが異なります。",
+        "id": "62",
+        "scene_name": "ExchangeTrainingItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所有しているキャラクターを交換ptに替えることができます。キャラクターによってレートが異なります。",
+        "id": "63",
+        "scene_name": "ExchangeCharacterScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "交換ptを使ってアイテムを入手できます。交換ptは「＋」ボタンから増やすことができます。",
+        "id": "64",
+        "scene_name": "TradeExPointScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "ゼニーを使ってアイテムを入手できます。商品が売り切れた場合、一定時間経過でまた一覧に並びます。",
+        "id": "65",
+        "scene_name": "TradeZeniScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "秘宝を使ってアイテムを入手できます。商品毎に必要な秘宝の種類が決まっています。",
+        "id": "66",
+        "scene_name": "TradeTreasureItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "ドッカン覚醒可能なキャラクター一覧です。キャラクタータップでドッカン覚醒に必要な覚醒メダルを確認できます。",
+        "id": "67",
+        "scene_name": "DokkanAwakenListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "タップで詳細を確認できます。",
+        "id": "68",
+        "scene_name": "TreasureItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「リバース」によってドッカン覚醒前の状態にしたキャラクターは、こちらの「ドッカン覚醒」から元に戻すことができます。",
+        "id": "69",
+        "scene_name": "ReverseMenuScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "ドッカン覚醒前の状態に戻したいキャラクターを選択して下さい。",
+        "id": "70",
+        "scene_name": "CharacterReverseSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "リバース中は、Lv、パラメータ、必殺技Lvが下がる場合がありますが、リバースドッカン覚醒をすることで元に戻ります。",
+        "id": "71",
+        "scene_name": "CharacterReverseConfirmScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "ドッカン覚醒後の状態に戻したいキャラクターを選択して下さい。",
+        "id": "72",
+        "scene_name": "CharacterReawakeSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "リバースドッカン覚醒後は、Lv、パラメータ、必殺技Lvがリバース前の状態に戻ります。リバース中に必殺技Lvがアップした場合、リバースドッカン覚醒後にも引継がれます。",
+        "id": "73",
+        "scene_name": "CharacterReawakeConfirmScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "タップで詳細を確認できます。",
+        "id": "74",
+        "scene_name": "PotentialItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「出撃する」ボタンを押すと大乱戦モードで遊ぶことができます。",
+        "id": "75",
+        "scene_name": "RTTitleView",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "大乱戦の遊び方を確認できます。メニューを選択してください。",
+        "id": "76",
+        "scene_name": "RTHelpListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "確認したい項目を選択してください。",
+        "id": "77",
+        "scene_name": "RTHelpCategoryScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "大乱戦ミッションの達成条件と報酬を確認できます。達成したミッションには達成マークが付きます。",
+        "id": "78",
+        "scene_name": "RTMissionView",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "キャラクターのアイコンをタップすることで100体まで選択することができます。また、「おまかせ」ボタンを押すことで100体まで自動で選択することができます。",
+        "id": "79",
+        "scene_name": "RTTeamSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "ステージを選択すると、各ステージに紐付いている試練の内容について確認することができます。",
+        "id": "80",
+        "scene_name": "SpecialMissionSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "直近50回分のガシャの排出履歴を確認できます。「シングルガシャ」「連続ガシャ」問わず1回でカウントされます。",
+        "id": "81",
+        "scene_name": "GashaHistoryScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「対戦する」ボタンで選択中のLvの敵に挑みます。クリア済のLvに再挑戦しても、最高到達Lvはリセットされません。",
+        "id": "82",
+        "scene_name": "ZBattleTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "一緒に挑戦するフレンドを選択して下さい。「バトル情報」ボタンから敵の情報などを確認できます。",
+        "id": "83",
+        "scene_name": "ZBattleSelectCompanyScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "挑戦前の最終確認です。サポートアイテムは持ち込めず、コンティニューはできません。問題がなければ「挑む！」ボタンを押して下さい。",
+        "id": "84",
+        "scene_name": "ZBattleTeamSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "未取得のポルンガドラゴンボールをタップすると、落ちている場所のヒントを確認できます。",
+        "id": "85",
+        "scene_name": "PorungaDragonBallListScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "「出撃する」ボタンを押すと大乱戦モードで遊ぶことができます。",
+        "id": "86",
+        "scene_name": "RMBattleTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "大乱戦ミッションの達成条件と報酬を確認できます。達成したミッションには達成マークが付きます。",
+        "id": "87",
+        "scene_name": "RMBattleMissionScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "大乱戦の遊び方を確認できます。メニューを選択してください。",
+        "id": "88",
+        "scene_name": "RMBattleHelpScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "確認したい項目を選択してください。",
+        "id": "89",
+        "scene_name": "RMHelpCategoryScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "現在の状況と残りキャラ数を確認できます。",
+        "id": "90",
+        "scene_name": "RMBattleStatusCheckScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "大乱戦に参加するキャラクターを最大112体まで選択してください。「おまかせ」ボタンを押すことで112体まで自動で選択することができます。確定ボタンを押すと次の画面に進みます。",
+        "id": "91",
+        "scene_name": "RMBattleSelectTeamScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "挑戦するステージを選択してください。「？マーク」の周りのステージを全てクリアするとボスに挑戦することが可能になります。",
+        "id": "92",
+        "scene_name": "RMBattleSelectStageScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "1番目に選んだキャラクターは「リーダー」、2番目に選んだキャラクターは「サブリーダー」となり、それぞれリーダースキルを発動することができます。確定ボタンを押すと次の画面に進みます。",
+        "id": "93",
+        "scene_name": "RMBattleSelectDeckScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "挑戦したいイベントを選択してください。",
+        "id": "94",
+        "scene_name": "EventKagiTopScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "挑戦したいステージを選択してください。",
+        "id": "95",
+        "scene_name": "EventKagiQuestSelectScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "挑戦したい難易度を選択してください。難易度によって必要な鍵の個数、敵の強さ、報酬内容が異なります。巻物が付いている難易度には「界王神からの試練」があります。",
+        "id": "96",
+        "scene_name": "SelectDifficultyKagiEventScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "挑戦開始前の最終確認になります。左右にスワイプするとチーム変更ができます。バトルに持ち込むサポートアイテムの設定もできます。",
+        "id": "97",
+        "scene_name": "SelectTeamEventScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持している修業場所を交換ptに替えることができます。アイテムによってレートが異なります。",
+        "id": "100",
+        "scene_name": "ExchangeTrainingFieldScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持している秘宝を交換ptに替えることができます。アイテムによってレートが異なります。",
+        "id": "101",
+        "scene_name": "ExchangeTreasureItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持している潜在能力玉を交換ptに替えることができます。アイテムによってレートが異なります。",
+        "id": "102",
+        "scene_name": "ExchangePotentialItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "タップで詳細を確認できます。",
+        "id": "103",
+        "scene_name": "TrainingFieldItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    },
+    {
+        "created_at": "2019-07-22 00:50:09",
+        "description": "所持しているアイテムを交換ptに替えることができます。アイテムによってレートが異なります。",
+        "id": "104",
+        "scene_name": "ExchangeOtherItemScene",
+        "updated_at": "2019-07-22 00:50:09"
+    }
+]

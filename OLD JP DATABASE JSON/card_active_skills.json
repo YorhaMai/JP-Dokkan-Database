@@ -1,0 +1,226 @@
+[
+    {
+        "active_skill_set_id": "13",
+        "card_id": "1015910",
+        "created_at": "2019-01-28 02:01:57",
+        "id": "22",
+        "updated_at": "2019-01-28 02:01:57"
+    },
+    {
+        "active_skill_set_id": "13",
+        "card_id": "1015911",
+        "created_at": "2019-01-28 02:01:57",
+        "id": "23",
+        "updated_at": "2019-01-28 02:01:57"
+    },
+    {
+        "active_skill_set_id": "14",
+        "card_id": "1014210",
+        "created_at": "2019-01-30 02:02:39",
+        "id": "24",
+        "updated_at": "2019-01-30 02:02:39"
+    },
+    {
+        "active_skill_set_id": "14",
+        "card_id": "1014211",
+        "created_at": "2019-01-30 02:02:39",
+        "id": "25",
+        "updated_at": "2019-01-30 02:02:39"
+    },
+    {
+        "active_skill_set_id": "15",
+        "card_id": "1014220",
+        "created_at": "2019-01-30 02:02:39",
+        "id": "26",
+        "updated_at": "2019-01-30 02:02:39"
+    },
+    {
+        "active_skill_set_id": "15",
+        "card_id": "1014221",
+        "created_at": "2019-01-30 02:02:39",
+        "id": "27",
+        "updated_at": "2019-01-30 02:02:39"
+    },
+    {
+        "active_skill_set_id": "16",
+        "card_id": "1016570",
+        "created_at": "2019-03-05 02:35:06",
+        "id": "28",
+        "updated_at": "2019-03-05 02:35:06"
+    },
+    {
+        "active_skill_set_id": "16",
+        "card_id": "1016571",
+        "created_at": "2019-03-05 02:35:06",
+        "id": "29",
+        "updated_at": "2019-03-05 02:35:06"
+    },
+    {
+        "active_skill_set_id": "17",
+        "card_id": "1016810",
+        "created_at": "2019-06-28 02:05:43",
+        "id": "30",
+        "updated_at": "2019-06-28 02:05:43"
+    },
+    {
+        "active_skill_set_id": "17",
+        "card_id": "1016811",
+        "created_at": "2019-06-28 02:05:43",
+        "id": "31",
+        "updated_at": "2019-06-28 02:05:43"
+    },
+    {
+        "active_skill_set_id": "18",
+        "card_id": "4016880",
+        "created_at": "2019-07-16 02:04:36",
+        "id": "32",
+        "updated_at": "2019-07-16 02:04:36"
+    },
+    {
+        "active_skill_set_id": "18",
+        "card_id": "4016881",
+        "created_at": "2019-07-16 02:04:36",
+        "id": "33",
+        "updated_at": "2019-07-16 02:04:36"
+    },
+    {
+        "active_skill_set_id": "19",
+        "card_id": "4017090",
+        "created_at": "2019-04-25 02:01:04",
+        "id": "34",
+        "updated_at": "2019-04-25 02:01:04"
+    },
+    {
+        "active_skill_set_id": "20",
+        "card_id": "4017091",
+        "created_at": "2019-04-25 02:01:04",
+        "id": "35",
+        "updated_at": "2019-04-25 02:01:04"
+    },
+    {
+        "active_skill_set_id": "21",
+        "card_id": "4017130",
+        "created_at": "2019-04-25 02:01:04",
+        "id": "36",
+        "updated_at": "2019-04-25 02:01:04"
+    },
+    {
+        "active_skill_set_id": "22",
+        "card_id": "4017131",
+        "created_at": "2019-04-25 02:01:04",
+        "id": "37",
+        "updated_at": "2019-04-25 02:01:04"
+    },
+    {
+        "active_skill_set_id": "23",
+        "card_id": "4017190",
+        "created_at": "2019-05-30 02:02:20",
+        "id": "38",
+        "updated_at": "2019-05-30 02:02:20"
+    },
+    {
+        "active_skill_set_id": "24",
+        "card_id": "4017191",
+        "created_at": "2019-05-30 02:02:20",
+        "id": "39",
+        "updated_at": "2019-05-30 02:02:20"
+    },
+    {
+        "active_skill_set_id": "25",
+        "card_id": "1017160",
+        "created_at": "2019-05-30 02:02:20",
+        "id": "40",
+        "updated_at": "2019-05-30 02:02:20"
+    },
+    {
+        "active_skill_set_id": "25",
+        "card_id": "1017161",
+        "created_at": "2019-05-30 02:02:20",
+        "id": "41",
+        "updated_at": "2019-05-30 02:02:20"
+    },
+    {
+        "active_skill_set_id": "26",
+        "card_id": "4017910",
+        "created_at": "2019-08-29 02:02:55",
+        "id": "42",
+        "updated_at": "2019-08-29 02:02:55"
+    },
+    {
+        "active_skill_set_id": "26",
+        "card_id": "4017911",
+        "created_at": "2019-08-29 02:02:55",
+        "id": "43",
+        "updated_at": "2019-08-29 02:02:55"
+    },
+    {
+        "active_skill_set_id": "27",
+        "card_id": "1017630",
+        "created_at": "2019-08-29 02:02:55",
+        "id": "44",
+        "updated_at": "2019-08-29 02:02:55"
+    },
+    {
+        "active_skill_set_id": "28",
+        "card_id": "1017631",
+        "created_at": "2019-08-29 02:02:55",
+        "id": "45",
+        "updated_at": "2019-08-29 02:02:55"
+    },
+    {
+        "active_skill_set_id": "29",
+        "card_id": "1017490",
+        "created_at": "2019-07-29 02:01:54",
+        "id": "46",
+        "updated_at": "2019-07-29 02:01:54"
+    },
+    {
+        "active_skill_set_id": "30",
+        "card_id": "1017491",
+        "created_at": "2019-07-29 02:01:54",
+        "id": "47",
+        "updated_at": "2019-07-29 02:01:54"
+    },
+    {
+        "active_skill_set_id": "31",
+        "card_id": "1017660",
+        "created_at": "2019-08-21 02:02:13",
+        "id": "48",
+        "updated_at": "2019-08-21 02:02:13"
+    },
+    {
+        "active_skill_set_id": "32",
+        "card_id": "1017661",
+        "created_at": "2019-08-21 02:02:13",
+        "id": "49",
+        "updated_at": "2019-08-21 02:02:13"
+    },
+    {
+        "active_skill_set_id": "33",
+        "card_id": "1017740",
+        "created_at": "2019-08-26 02:01:51",
+        "id": "50",
+        "updated_at": "2019-08-26 02:01:51"
+    },
+    {
+        "active_skill_set_id": "34",
+        "card_id": "1017741",
+        "created_at": "2019-08-26 02:01:51",
+        "id": "51",
+        "updated_at": "2019-08-26 02:01:51"
+    },
+    {
+        "active_skill_set_id": "35",
+        "card_id": "1018030",
+        "created_at": "2019-09-17 00:02:23",
+        "id": "52",
+        "updated_at": "2019-09-17 00:02:23"
+    },
+    {
+        "active_skill_set_id": "36",
+        "card_id": "1018031",
+        "created_at": "2019-09-17 00:02:23",
+        "id": "53",
+        "updated_at": "2019-09-17 00:02:23"
+    }
+]

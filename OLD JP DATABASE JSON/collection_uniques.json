@@ -1,0 +1,4402 @@
+[
+    {
+        "background_id": "1",
+        "card_id": "1000710",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "1",
+        "name": "アプール",
+        "priority": "99900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002670",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "2",
+        "name": "ウイス",
+        "priority": "99300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002030",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "3",
+        "name": "ウーブ\n(少年期)",
+        "priority": "99100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1000770",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "4",
+        "name": "海賊ロボ",
+        "priority": "98500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002530",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "5",
+        "name": "合体13号",
+        "priority": "98200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1000450",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "6",
+        "name": "合体ピラフマシン",
+        "priority": "98100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001020",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "7",
+        "name": "亀仙人",
+        "priority": "97900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003530",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "8",
+        "name": "亀仙人\n(MAXパワー)",
+        "priority": "97700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1000760",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "9",
+        "name": "キーラ",
+        "priority": "97300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1000950",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "10",
+        "name": "ギニュー",
+        "priority": "97200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001110",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "12",
+        "name": "キュイ",
+        "priority": "96500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1000890",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "13",
+        "name": "クリリン",
+        "priority": "96100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1002180",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "14",
+        "name": "クリリン\n(警官)",
+        "priority": "96000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1001070",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "15",
+        "name": "グルド",
+        "priority": "95800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000850",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "16",
+        "name": "ゴールデン\nフリーザ",
+        "priority": "95000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "2000720",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "17",
+        "name": "ゴクア",
+        "priority": "94800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000190",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "18",
+        "name": "コルド大王",
+        "priority": "93900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000940",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "19",
+        "name": "ザーボン",
+        "priority": "93700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1000780",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "20",
+        "name": "栽培マン",
+        "priority": "93600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "2000070",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "21",
+        "name": "サイボーグ桃白白",
+        "priority": "93500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "2000710",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "22",
+        "name": "ザンギャ",
+        "priority": "93200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001090",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "23",
+        "name": "ジース",
+        "priority": "93000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000460",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "24",
+        "name": "シェン",
+        "priority": "92900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002590",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "25",
+        "name": "シサミ",
+        "priority": "92800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002210",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "26",
+        "name": "ジャコ",
+        "priority": "92700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "2000210",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "27",
+        "name": "ジャッキー・チュン",
+        "priority": "92600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000750",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "28",
+        "name": "ジュエール",
+        "priority": "92100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1002520",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "29",
+        "name": "人造人間13号",
+        "priority": "91900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1001010",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "32",
+        "name": "人造人間16号",
+        "priority": "91800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1000990",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "33",
+        "name": "人造人間17号",
+        "priority": "91700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001730",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "34",
+        "name": "人造人間17号\n(未来)",
+        "priority": "91600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001000",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "35",
+        "name": "人造人間18号",
+        "priority": "91400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1001740",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "36",
+        "name": "人造人間18号\n(未来)",
+        "priority": "91200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001230",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "37",
+        "name": "人造人間19号",
+        "priority": "91100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000480",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "38",
+        "name": "シンバル",
+        "priority": "90700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1000010",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "39",
+        "name": "超サイヤ人\n孫悟空",
+        "priority": "89400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003180",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "40",
+        "name": "超サイヤ人2\n孫悟空",
+        "priority": "89100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001920",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "41",
+        "name": "超サイヤ人3\n孫悟空",
+        "priority": "88900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002080",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "42",
+        "name": "超サイヤ人ゴッド\nSS孫悟空",
+        "priority": "88500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002580",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "43",
+        "name": "超サイヤ人\n孫悟天\n(幼年期)",
+        "priority": "87600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1001390",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "44",
+        "name": "超サイヤ人\n孫悟飯\n(少年期)",
+        "priority": "86900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002700",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "45",
+        "name": "超サイヤ人2\n孫悟飯\n(少年期)",
+        "priority": "86800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002200",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "46",
+        "name": "超サイヤ人\n孫悟飯\n(青年期)",
+        "priority": "86700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002570",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "47",
+        "name": "超サイヤ人\nトランクス\n(幼年期)",
+        "priority": "86100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1001590",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "48",
+        "name": "超サイヤ人\nトランクス\n(青年期)",
+        "priority": "86000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001800",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "49",
+        "name": "超トランクス",
+        "priority": "85300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001490",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "50",
+        "name": "超サイヤ人\nバーダック",
+        "priority": "85200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1000840",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "51",
+        "name": "超サイヤ人\nベジータ",
+        "priority": "84700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001790",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "52",
+        "name": "超サイヤ人2\nベジータ",
+        "priority": "84500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002090",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "53",
+        "name": "超サイヤ人ゴッド\nSSベジータ",
+        "priority": "84050",
+        "updated_at": "2018-12-26 02:10:37"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1000610",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "54",
+        "name": "スポポビッチ",
+        "priority": "82500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001500",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "55",
+        "name": "セリパ",
+        "priority": "82200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000080",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "56",
+        "name": "セル\n(第一形態)",
+        "priority": "82000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001710",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "57",
+        "name": "セル\n(第二形態)",
+        "priority": "81900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001720",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "58",
+        "name": "セル\n(完全体)",
+        "priority": "81800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002160",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "59",
+        "name": "ソルベ",
+        "priority": "81300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003140",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "60",
+        "name": "孫悟空",
+        "priority": "81200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001400",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "61",
+        "name": "孫悟空\n(界王拳)",
+        "priority": "81100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002240",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "62",
+        "name": "孫悟空\n(少年期)",
+        "priority": "80900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002000",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "63",
+        "name": "孫悟天\n(幼年期)",
+        "priority": "80100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001620",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "65",
+        "name": "孫悟飯\n(幼年期)",
+        "priority": "79800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002190",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "66",
+        "name": "孫悟飯\n(青年期)",
+        "priority": "79600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002680",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "67",
+        "name": "孫悟飯\n(少年期)",
+        "priority": "79700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001980",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "68",
+        "name": "ダーブラ",
+        "priority": "79100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1000260",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "69",
+        "name": "桃白白",
+        "priority": "78300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002170",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "70",
+        "name": "タゴマ",
+        "priority": "78200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1000470",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "71",
+        "name": "タンバリン",
+        "priority": "77900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001040",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "72",
+        "name": "チチ",
+        "priority": "77700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1003540",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "73",
+        "name": "チチ\n(少女期)",
+        "priority": "77600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000920",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "74",
+        "name": "餃子",
+        "priority": "77500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "2000180",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "75",
+        "name": "チルド",
+        "priority": "77100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001380",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "76",
+        "name": "鶴仙人",
+        "priority": "77000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002600",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "77",
+        "name": "天津飯",
+        "priority": "76600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001540",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "78",
+        "name": "トーマ",
+        "priority": "76300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1001840",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "79",
+        "name": "ドクター・ゲロ",
+        "priority": "75800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001550",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "80",
+        "name": "トテッポ",
+        "priority": "75400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001050",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "81",
+        "name": "ドドリア",
+        "priority": "75200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000490",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "82",
+        "name": "ドラム",
+        "priority": "74800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1001860",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "83",
+        "name": "トランクス\n(青年期)",
+        "priority": "74400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "2000170",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "84",
+        "name": "トランクス\n(ゼノ)",
+        "priority": "74300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001760",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "85",
+        "name": "トランクス\n(幼年期)",
+        "priority": "74700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001420",
+        "collection_category_id": "5",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "86",
+        "name": "ナッパ",
+        "priority": "74000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1001100",
+        "collection_category_id": "5",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "87",
+        "name": "ネイル",
+        "priority": "73400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001080",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "88",
+        "name": "バータ",
+        "priority": "73200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "2000140",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "89",
+        "name": "バーダック",
+        "priority": "73100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1001690",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "90",
+        "name": "パーフェクトセル",
+        "priority": "72900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "2000130",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "91",
+        "name": "パイクーハン",
+        "priority": "72500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002050",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "92",
+        "name": "バビディ",
+        "priority": "72000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1000730",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "93",
+        "name": "バビディの部下",
+        "priority": "71900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1001560",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "94",
+        "name": "パンブーキン",
+        "priority": "71300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001990",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "95",
+        "name": "ビーデル",
+        "priority": "71000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001630",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "96",
+        "name": "ピッコロ",
+        "priority": "70900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "2000730",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "97",
+        "name": "ビドー",
+        "priority": "70500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002660",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "98",
+        "name": "ビルス",
+        "priority": "70300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002070",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "99",
+        "name": "プイプイ",
+        "priority": "70000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000740",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "100",
+        "name": "ブージン",
+        "priority": "69900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000040",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "101",
+        "name": "フリーザ\n(第一形態)",
+        "priority": "69300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001520",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "102",
+        "name": "フリーザ\n(第二形態)",
+        "priority": "69200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1001600",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "103",
+        "name": "フリーザ\n(第三形態)",
+        "priority": "69100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001580",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "104",
+        "name": "フリーザ\n(最終形態)",
+        "priority": "69000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1000790",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "105",
+        "name": "フリーザ兵",
+        "priority": "68600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002560",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "107",
+        "name": "フルパワー\nボージャック",
+        "priority": "68400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1000740",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "108",
+        "name": "プンター",
+        "priority": "67500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "2000060",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "109",
+        "name": "ベジータ",
+        "priority": "67300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "2000050",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "110",
+        "name": "ベジータ\n(幼年期)",
+        "priority": "67000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000120",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "111",
+        "name": "ベジータ王",
+        "priority": "66800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "2000700",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "112",
+        "name": "ボージャック",
+        "priority": "66200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "2000200",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "113",
+        "name": "マイティマスク",
+        "priority": "65800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1002280",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "114",
+        "name": "マジュニア",
+        "priority": "65600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1000600",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "115",
+        "name": "セルジュニア",
+        "priority": "81400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1001960",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "116",
+        "name": "魔人ブウ\n(悪)",
+        "priority": "65200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001950",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "117",
+        "name": "魔人ブウ\n(純粋悪)",
+        "priority": "64600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001940",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "118",
+        "name": "魔人ブウ\n(善)",
+        "priority": "64500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1001930",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "119",
+        "name": "魔人ベジータ",
+        "priority": "64200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1000820",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "120",
+        "name": "ミスター・サタン",
+        "priority": "64000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000280",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "122",
+        "name": "メカフリーザ",
+        "priority": "63200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002060",
+        "collection_category_id": "8",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "123",
+        "name": "ヤコン",
+        "priority": "62800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001340",
+        "collection_category_id": "8",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "124",
+        "name": "ヤジロベー",
+        "priority": "62700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1000620",
+        "collection_category_id": "8",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "125",
+        "name": "ヤムー",
+        "priority": "62600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001890",
+        "collection_category_id": "8",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "126",
+        "name": "ヤムチャ",
+        "priority": "62500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1001430",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "127",
+        "name": "ラディッツ",
+        "priority": "62100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001060",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "128",
+        "name": "リクーム",
+        "priority": "61700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1000800",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "129",
+        "name": "RR軍兵",
+        "priority": "61000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002470",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "130",
+        "name": "クウラ",
+        "priority": "96300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003610",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "131",
+        "name": "クウラ\n(最終形態)",
+        "priority": "96200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002490",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "132",
+        "name": "サウザー",
+        "priority": "93400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002500",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "133",
+        "name": "ドーレ",
+        "priority": "76100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002510",
+        "collection_category_id": "5",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "134",
+        "name": "ネイズ",
+        "priority": "73500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002940",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "135",
+        "name": "グレート\nサイヤマン",
+        "priority": "95700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002950",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "136",
+        "name": "グレート\nサイヤマン2号",
+        "priority": "95400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002020",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "137",
+        "name": "アルティメット\n孫悟飯",
+        "priority": "99700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1001970",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "138",
+        "name": "魔人ブウ\n(純粋)",
+        "priority": "64800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003880",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "139",
+        "name": "ブルマ",
+        "priority": "68200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002340",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "140",
+        "name": "クリリン\n(少年期)",
+        "priority": "95900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002630",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "141",
+        "name": "ミスター・サタン像",
+        "priority": "63800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003330",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "142",
+        "name": "ミスター・ブウ",
+        "priority": "63700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003690",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "143",
+        "name": "超サイヤ人ゴッド\n孫悟空",
+        "priority": "88600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002960",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "144",
+        "name": "孫悟空\n(GT) ",
+        "priority": "81000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003660",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "145",
+        "name": "ターレス",
+        "priority": "78800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1003920",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "146",
+        "name": "カカオ",
+        "priority": "98400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003930",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "147",
+        "name": "ダイーズ",
+        "priority": "78600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003940",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "148",
+        "name": "アモンド",
+        "priority": "99800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1003950",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "149",
+        "name": "レズン",
+        "priority": "61100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1003960",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "150",
+        "name": "ラカセイ",
+        "priority": "62200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002860",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "151",
+        "name": "孫悟空\n(天使)",
+        "priority": "80700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002980",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "152",
+        "name": "パン\n(GT)",
+        "priority": "71600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003020",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "153",
+        "name": "超サイヤ人\n孫悟空\n(GT)",
+        "priority": "88400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002990",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "154",
+        "name": "超サイヤ人\nトランクス\n(GT)",
+        "priority": "85700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1004000",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "155",
+        "name": "スーパーウーブ",
+        "priority": "90400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003000",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "156",
+        "name": "ベジータ\n(GT)",
+        "priority": "67100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003130",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "157",
+        "name": "超サイヤ人\n孫悟飯\n(GT)",
+        "priority": "86300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003060",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "158",
+        "name": "ミスター・サタン\n(GT)",
+        "priority": "63900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "2000090",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "159",
+        "name": "孫悟飯\n(じいちゃん)",
+        "priority": "79000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002260",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "160",
+        "name": "ピッコロ大魔王\n(老)",
+        "priority": "70700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1002270",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "161",
+        "name": "ピッコロ大魔王",
+        "priority": "70800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002360",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "162",
+        "name": "アックマン",
+        "priority": "100000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1003160",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "163",
+        "name": "ウーロン",
+        "priority": "98900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003150",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "164",
+        "name": "チャパ王",
+        "priority": "77300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1002380",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "165",
+        "name": "ドラキュラマン",
+        "priority": "75000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002370",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "166",
+        "name": "ミイラくん",
+        "priority": "64100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002300",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "167",
+        "name": "ムラサキ曹長",
+        "priority": "63300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1002310",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "168",
+        "name": "ブルー将軍",
+        "priority": "68500",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003980",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "169",
+        "name": "ブルマ\n(少女期)",
+        "priority": "68100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003970",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "170",
+        "name": "老界王神",
+        "priority": "60900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002390",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "171",
+        "name": "ベジット",
+        "priority": "66700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002040",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "172",
+        "name": "パン\n(幼年期)",
+        "priority": "71700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003550",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "173",
+        "name": "魔人ブウ\n(ピッコロ吸収)",
+        "priority": "64400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000620",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "174",
+        "name": "ブロリー",
+        "priority": "67600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "2000630",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "175",
+        "name": "超サイヤ人\nブロリー",
+        "priority": "84900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "2000640",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "176",
+        "name": "伝説の超サイヤ人\nブロリー",
+        "priority": "76400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "2000760",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "177",
+        "name": "パラガス",
+        "priority": "71800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003480",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "178",
+        "name": "界王神",
+        "priority": "98600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1004600",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "179",
+        "name": "メタルクウラ",
+        "priority": "63100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003650",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "180",
+        "name": "ロボット兵",
+        "priority": "60700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1004370",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "181",
+        "name": "超ベジータ",
+        "priority": "83700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002400",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "182",
+        "name": "ゴテンクス",
+        "priority": "94300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1004180",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "183",
+        "name": "ブルマ\n(バニー)",
+        "priority": "68000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1004190",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "184",
+        "name": "ランチ",
+        "priority": "61900",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1004670",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "185",
+        "name": "ブラック参謀",
+        "priority": "69600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1004660",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "186",
+        "name": "ギラン",
+        "priority": "96400",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1004800",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "187",
+        "name": "ゴテンクス(失敗)A",
+        "priority": "94200",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1004810",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "188",
+        "name": "ゴテンクス(失敗)B",
+        "priority": "94100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005250",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "189",
+        "name": "ウーブ\n(青年期)",
+        "priority": "99000",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003460",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "190",
+        "name": "キビト",
+        "priority": "96800",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003270",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "191",
+        "name": "超サイヤ人2\n孫悟飯\n(青年期)",
+        "priority": "86600",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003400",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "192",
+        "name": "ドクター・ライチー",
+        "priority": "75700",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1003380",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "193",
+        "name": "ハッチヒャック",
+        "priority": "72100",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1005070",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "194",
+        "name": "超サイヤ人\n孫悟空\n(天使)",
+        "priority": "89300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1003240",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:21",
+        "id": "195",
+        "name": "超サイヤ人3\nベジータ",
+        "priority": "84300",
+        "updated_at": "2018-11-20 05:47:21"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003470",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "196",
+        "name": "キビト神",
+        "priority": "96700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1002410",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "197",
+        "name": "ベクウ",
+        "priority": "67400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005270",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "198",
+        "name": "超ゴジータ",
+        "priority": "90300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1002800",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "199",
+        "name": "スーパージャネンバ",
+        "priority": "83500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1004720",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "200",
+        "name": "超サイヤ人\nゴテンクス",
+        "priority": "87400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1004950",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "201",
+        "name": "神様",
+        "priority": "98000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1005590",
+        "collection_category_id": "5",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "202",
+        "name": "ナム",
+        "priority": "73700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1005600",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "203",
+        "name": "バクテリアン",
+        "priority": "72300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1004040",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "204",
+        "name": "超サイヤ人\nベジータ\n(GT)",
+        "priority": "84000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1004960",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "205",
+        "name": "トワ",
+        "priority": "60600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1004970",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "206",
+        "name": "ミラ",
+        "priority": "63500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1004980",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "207",
+        "name": "魔神ドミグラ",
+        "priority": "65400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1004990",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "208",
+        "name": "超サイヤ人\nトランクス\n(ゼノ)",
+        "priority": "85900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1005510",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "209",
+        "name": "時の界王神",
+        "priority": "76000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "2000220",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "210",
+        "name": "トランクス\n(少年期)\n(未来)",
+        "priority": "74200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "2000230",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "211",
+        "name": "超サイヤ人\n孫悟飯\n(未来)",
+        "priority": "86400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1005610",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "212",
+        "name": "孫悟飯\n(未来)",
+        "priority": "79400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1005620",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "213",
+        "name": "超サイヤ人\nトランクス\n(未来)",
+        "priority": "85800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003320",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "214",
+        "name": "フリーザ\n(フルパワー)",
+        "priority": "68700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001530",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "215",
+        "name": "スーパーザーボン",
+        "priority": "83600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1003450",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "216",
+        "name": "武泰斗",
+        "priority": "63400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1001610",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "217",
+        "name": "ギニュー\n(孫悟空)",
+        "priority": "97100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1003030",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "218",
+        "name": "超サイヤ人2\n孫悟空\n(GT)",
+        "priority": "88300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005940",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "219",
+        "name": "メタルリルド",
+        "priority": "62900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1006000",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "220",
+        "name": "ベビー\n(少年体)",
+        "priority": "66500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005920",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "221",
+        "name": "リルド将軍",
+        "priority": "61200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005930",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "222",
+        "name": "ハイパーメガリルド",
+        "priority": "72400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1004210",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "223",
+        "name": "超サイヤ人2\n孫悟空\n(天使)",
+        "priority": "89000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1003570",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "224",
+        "name": "魔人ブウ\n(ゴテンクス吸収)",
+        "priority": "65000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1005210",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "225",
+        "name": "グレート\nサイヤマン\n(SS2)",
+        "priority": "95600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005190",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "226",
+        "name": "超サイヤ人2\nトランクス\n(青年期)",
+        "priority": "85500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1005130",
+        "collection_category_id": "5",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "227",
+        "name": "ナッパ\n(大猿)",
+        "priority": "73800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1002820",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "228",
+        "name": "孫悟空\n(少年期)\n(大猿)",
+        "priority": "80800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002830",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "229",
+        "name": "ベジータ\n(大猿)",
+        "priority": "67200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005140",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "230",
+        "name": "ラディッツ\n(大猿)",
+        "priority": "62000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1005420",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "231",
+        "name": "ターブル",
+        "priority": "78900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1005080",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "232",
+        "name": "超サイヤ人\nベジータ\n(天使)",
+        "priority": "84600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1004470",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "233",
+        "name": "大界王神",
+        "priority": "78400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1006030",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "234",
+        "name": "スーパーベビー2",
+        "priority": "83000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1006750",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "235",
+        "name": "超サイヤ人3\n孫悟空\n(GT)",
+        "priority": "88200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1006250",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "236",
+        "name": "孫悟飯\n(GT)",
+        "priority": "79300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1004020",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "237",
+        "name": "孫悟天\n(GT)",
+        "priority": "80000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1006280",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "238",
+        "name": "孫悟天\n(GT)\n(寄生)",
+        "priority": "79900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1006310",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "239",
+        "name": "超サイヤ人\n孫悟天\n(GT)(寄生)",
+        "priority": "87500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1006010",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "240",
+        "name": "ベジータベビー",
+        "priority": "66900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1002810",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "241",
+        "name": "バーダック\n(大猿)",
+        "priority": "73000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1006480",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "242",
+        "name": "セリパ\n(大猿)",
+        "priority": "82100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1006490",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "243",
+        "name": "パンブーキン\n(大猿)",
+        "priority": "71200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1006500",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "244",
+        "name": "トテッポ\n(大猿)",
+        "priority": "75300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1006510",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "245",
+        "name": "トーマ\n(大猿)",
+        "priority": "76200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1008410",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "246",
+        "name": "超ベジット",
+        "priority": "83200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005170",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "247",
+        "name": "マジュニア\n(巨大化)",
+        "priority": "65500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1007360",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "248",
+        "name": "パン\n(GT)\n(ハニー)",
+        "priority": "71500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1007090",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "249",
+        "name": "ヒット",
+        "priority": "70600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1007020",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "250",
+        "name": "ボタモ",
+        "priority": "66000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1007080",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "251",
+        "name": "マゲッタ",
+        "priority": "65700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1007050",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "252",
+        "name": "フロスト\n(最終形態)",
+        "priority": "67700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1007060",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "253",
+        "name": "キャベ",
+        "priority": "96600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1007070",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "254",
+        "name": "超サイヤ人\nキャベ",
+        "priority": "90000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1007930",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "255",
+        "name": "超サイヤ人3\nゴテンクス",
+        "priority": "87200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1008350",
+        "collection_category_id": "8",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "256",
+        "name": "ヤムハン",
+        "priority": "62400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1007950",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "257",
+        "name": "シャンパ",
+        "priority": "92200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1007030",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "258",
+        "name": "フロスト",
+        "priority": "67900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1007040",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "259",
+        "name": "フロスト\n(突撃形態)",
+        "priority": "67800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1008340",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "260",
+        "name": "カロリー",
+        "priority": "97400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1008650",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "261",
+        "name": "フウラ",
+        "priority": "69800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1008660",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "262",
+        "name": "パンデル",
+        "priority": "71400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1008670",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "263",
+        "name": "バーロット",
+        "priority": "72700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1008680",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "264",
+        "name": "チャオマン",
+        "priority": "77400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1008690",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "265",
+        "name": "ブラパン",
+        "priority": "69500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1008700",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "266",
+        "name": "ジャネンブウ",
+        "priority": "92300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1008100",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "267",
+        "name": "魔人ブウ\n(アルティメット\n悟飯吸収)",
+        "priority": "65100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1008131",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "268",
+        "name": "魔人ブウ\n(南の界王神吸収)",
+        "priority": "64300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1005150",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "269",
+        "name": "ターレス\n(大猿)",
+        "priority": "78700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1008770",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "270",
+        "name": "人造人間\n17号&18号",
+        "priority": "91500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1007430",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "271",
+        "name": "ゴテンクス\n(青年期)",
+        "priority": "94000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1007440",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "272",
+        "name": "超サイヤ人\nゴテンクス\n(青年期)",
+        "priority": "87100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1007420",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "273",
+        "name": "スーパー\nパイクーハン",
+        "priority": "83300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1007710",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "274",
+        "name": "ジャネンバベビー",
+        "priority": "92400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1007720",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "275",
+        "name": "魔人ブウ\n(純粋)\n(バビディ吸収)",
+        "priority": "64700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1006410",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "276",
+        "name": "超一星龍",
+        "priority": "90500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1008720",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "277",
+        "name": "一星龍",
+        "priority": "99400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1006340",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "278",
+        "name": "二星龍",
+        "priority": "61400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1006350",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "279",
+        "name": "三星龍",
+        "priority": "93100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1006360",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "280",
+        "name": "四星龍",
+        "priority": "90600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1006370",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "281",
+        "name": "五星龍",
+        "priority": "99200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1006380",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "282",
+        "name": "六星龍",
+        "priority": "61300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1006400",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "283",
+        "name": "七星龍",
+        "priority": "77800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1008760",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "284",
+        "name": "超サイヤ人3\nベジータ\n(GT)",
+        "priority": "83900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1008900",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "285",
+        "name": "テッカ",
+        "priority": "76700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1008910",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "286",
+        "name": "ピニッジ",
+        "priority": "70400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1008840",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "287",
+        "name": "ゴクウブラック",
+        "priority": "94700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1008950",
+        "collection_category_id": "5",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "288",
+        "name": "則巻アラレ",
+        "priority": "73300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1009050",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "289",
+        "name": "オボッチャマン",
+        "priority": "98700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1009030",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "290",
+        "name": "スッパマン",
+        "priority": "82600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1009320",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "291",
+        "name": "超サイヤ人ゴッドSS\nベジット",
+        "priority": "89500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1009340",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "292",
+        "name": "ゴクウブラック\n(超サイヤ人ロゼ)",
+        "priority": "94500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1008860",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "293",
+        "name": "トランクス\n(青年期)\n(未来)",
+        "priority": "74100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1008880",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "294",
+        "name": "マイ\n(未来)",
+        "priority": "65900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1009160",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "295",
+        "name": "ザマス",
+        "priority": "93300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1009850",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "296",
+        "name": "亀仙人\n(サンタクロース)",
+        "priority": "97800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1009600",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "297",
+        "name": "合体ザマス",
+        "priority": "98300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1009420",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "298",
+        "name": "超サイヤ人4\n孫悟空",
+        "priority": "88700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1009820",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "299",
+        "name": "超サイヤ人4\nベジータ",
+        "priority": "84200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1008291",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "300",
+        "name": "超サイヤ人3\n孫悟空\n(GT)(黄金大猿)",
+        "priority": "88100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1006521",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "301",
+        "name": "スーパーベビー2\n(大猿ベビー)",
+        "priority": "82900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1006021",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "302",
+        "name": "スーパーベビー1",
+        "priority": "83100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1006270",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "303",
+        "name": "孫悟飯\n(GT)\n(寄生)",
+        "priority": "79200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1006300",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "304",
+        "name": "超サイヤ人\n孫悟飯\n(GT)(寄生)",
+        "priority": "86200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1006290",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "305",
+        "name": "トランクス\n(GT)\n(寄生)",
+        "priority": "73900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1006320",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "306",
+        "name": "超サイヤ人\nトランクス\n(GT)(寄生)",
+        "priority": "85600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1009631",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "307",
+        "name": "ギニュー\n(特戦隊)",
+        "priority": "96900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1010240",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "308",
+        "name": "超サイヤ人3\n孫悟空\n(天使)",
+        "priority": "88800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1010280",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "309",
+        "name": "仮面のサイヤ人",
+        "priority": "97600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1010321",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "310",
+        "name": "超サイヤ人2\nバーダック",
+        "priority": "85100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1009800",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "311",
+        "name": "兎人参化",
+        "priority": "75100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1010550",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "312",
+        "name": "ヘルファイター17号",
+        "priority": "66300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1005990",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "313",
+        "name": "超17号",
+        "priority": "83400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1002790",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "314",
+        "name": "ジャネンバ",
+        "priority": "92500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1010350",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "315",
+        "name": "孫悟空Jr.",
+        "priority": "80200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1010361",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "316",
+        "name": "超サイヤ人\n孫悟空Jr.",
+        "priority": "87700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1007741",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "317",
+        "name": "超サイヤ人3\nゴテンクス\n(青年期)",
+        "priority": "87000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1008010",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "318",
+        "name": "バイオブロリー",
+        "priority": "72600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1011131",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "319",
+        "name": "ゴクウブラック\n&ザマス",
+        "priority": "94600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1011141",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "320",
+        "name": "ゴクウブラック\n(超サイヤ人ロゼ)\n&ザマス",
+        "priority": "94400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1011160",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "321",
+        "name": "超サイヤ人3\nブロリー",
+        "priority": "84800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1010660",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "322",
+        "name": "超サイヤ人孫悟空\n(天使)\n(超界王拳)",
+        "priority": "89200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1010680",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "323",
+        "name": "パーフェクトセル\n(天使)",
+        "priority": "72800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1012220",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "324",
+        "name": "フリーザ\n(最終形態)\n(天使)",
+        "priority": "68800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1010700",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "325",
+        "name": "コルド大王\n(天使)",
+        "priority": "93800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1011750",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "326",
+        "name": "超サイヤ人2\nカリフラ",
+        "priority": "90100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011760",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "327",
+        "name": "ケール\n(暴走)",
+        "priority": "95100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1011290",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "328",
+        "name": "超サイヤ人4\nゴジータ",
+        "priority": "90200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011820",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "329",
+        "name": "ビルスイス",
+        "priority": "70100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1011830",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "330",
+        "name": "セルーザ",
+        "priority": "81500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1011641",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "331",
+        "name": "トランクス\n(幼年期)\n&孫悟天(幼年期)",
+        "priority": "74600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011220",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "332",
+        "name": "ランファン",
+        "priority": "61800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011580",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "333",
+        "name": "ベルガモ\n(巨大化)",
+        "priority": "66400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1011940",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "334",
+        "name": "魔人ブウ\n(シェイプアップ)",
+        "priority": "64900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1011590",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "335",
+        "name": "トッポ",
+        "priority": "75600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1012020",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "336",
+        "name": "ゴールデン\nフリーザ\n(天使)",
+        "priority": "94900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1011920",
+        "collection_category_id": "8",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "337",
+        "name": "ユーリン",
+        "priority": "62300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1012370",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "338",
+        "name": "孫悟空\n(身勝手の\n極意“兆”)",
+        "priority": "80600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1012161",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "339",
+        "name": "フルパワー\nボージャック\n(銀河戦士)",
+        "priority": "68300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1012230",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "340",
+        "name": "大界王",
+        "priority": "78500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1012290",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "341",
+        "name": "ベジット(アメ玉)",
+        "priority": "66600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1012690",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "342",
+        "name": "超サイヤ人\nケフラ",
+        "priority": "89700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1012550",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "343",
+        "name": "暗黒トワ",
+        "priority": "99500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1012570",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "344",
+        "name": "超サイヤ人3\nトランクス\n(青年期)",
+        "priority": "85400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1008180",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "345",
+        "name": "超サイヤ人3\n孫悟飯\n(青年期)",
+        "priority": "86500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1012131",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "346",
+        "name": "天津飯\n&餃子",
+        "priority": "76500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1006140",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "347",
+        "name": "男狼",
+        "priority": "98800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1006150",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "348",
+        "name": "パンプット",
+        "priority": "71100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1012651",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "349",
+        "name": "超サイヤ人2\nベジータ\n&ブルマ",
+        "priority": "84400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1011770",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "350",
+        "name": "超サイヤ人3\nバーダック",
+        "priority": "85000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1012410",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "351",
+        "name": "タピオン\n(ヒルデガーン)",
+        "priority": "78000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1012860",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "352",
+        "name": "タピオン",
+        "priority": "78100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1012470",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "353",
+        "name": "ホイ",
+        "priority": "66100",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1012480",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "354",
+        "name": "ミノシア",
+        "priority": "63600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1012880",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "355",
+        "name": "孫悟空&\nベジータ",
+        "priority": "80400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1012901",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "356",
+        "name": "超サイヤ人\n孫悟空&\n超サイヤ人ベジータ",
+        "priority": "87900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1012910",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "357",
+        "name": "孫悟空(天使)&\nベジータ(天使)",
+        "priority": "80300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1012931",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "358",
+        "name": "超サイヤ人孫悟空\n(天使)&超サイヤ人\nベジータ(天使)",
+        "priority": "87800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1013101",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "359",
+        "name": "ギニュー\n(孫悟空)\n(特戦隊)",
+        "priority": "97000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1013470",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "360",
+        "name": "スーパー\nリブリアン",
+        "priority": "82700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1013431",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "361",
+        "name": "超サイヤ人2\nケフラ",
+        "priority": "89600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1013630",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "362",
+        "name": "カリフラ",
+        "priority": "97500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1013650",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "363",
+        "name": "ケール",
+        "priority": "95200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1013660",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "364",
+        "name": "超サイヤ人2\nケール",
+        "priority": "89800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1013531",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "365",
+        "name": "超サイヤ人2\nキャベ",
+        "priority": "89900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1013480",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "366",
+        "name": "ジレン",
+        "priority": "92000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1013781",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "367",
+        "name": "ドラゴンボール\nヒロインズ",
+        "priority": "74900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1013771",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "368",
+        "name": "ビルス\n&ウイス",
+        "priority": "70200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1013881",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "369",
+        "name": "トッポ\n(破壊神モード)",
+        "priority": "75500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1012610",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "370",
+        "name": "ディスポ",
+        "priority": "76900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1013911",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "371",
+        "name": "ディスポ\n(超最高速モード)",
+        "priority": "76800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1012300",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "372",
+        "name": "リブリアン",
+        "priority": "61600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1013951",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "373",
+        "name": "リブリアン\n(巨大化)",
+        "priority": "61500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1013400",
+        "collection_category_id": "9",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "374",
+        "name": "老界王神\n(居眠り)",
+        "priority": "60800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1013700",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "375",
+        "name": "スラッグ",
+        "priority": "82400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1013711",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "376",
+        "name": "スラッグ\n(巨大化)",
+        "priority": "82300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1014120",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "377",
+        "name": "超フルパワー\nサイヤ人4\n孫悟空",
+        "priority": "77200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1014320",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "378",
+        "name": "フリーザ\n(最終形態)\n(GT)",
+        "priority": "68900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1014340",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "379",
+        "name": "セル\n(完全体)\n(GT)",
+        "priority": "81700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1005810",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "380",
+        "name": "人造人間18号\n(GT)",
+        "priority": "91300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1014471",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "381",
+        "name": "メタルクウラ\n軍団",
+        "priority": "63000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1012090",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "382",
+        "name": "ブラ",
+        "priority": "69700",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1014650",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "383",
+        "name": "人造人間21号\n(変身)",
+        "priority": "90900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1014630",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "384",
+        "name": "人造人間21号\n(通常)",
+        "priority": "91000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1014641",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "385",
+        "name": "人造人間21号\n(変身・善)",
+        "priority": "90800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1013360",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "386",
+        "name": "グレート\nサイヤマン\n1号&2号",
+        "priority": "95500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1014941",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "387",
+        "name": "セル\n(完全体)\n&セルジュニア",
+        "priority": "81600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1014100",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "388",
+        "name": "トランクス(幼年期)\n&孫悟天(幼年期)\n&マーロン",
+        "priority": "74500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1014950",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "389",
+        "name": "孫悟空\n&フリーザ\n(最終形態)(天使)",
+        "priority": "80500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1015190",
+        "collection_category_id": "5",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "390",
+        "name": "西の界王神",
+        "priority": "73600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1015270",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "391",
+        "name": "超サイヤ人\nゴテンクス\n&ゴースト",
+        "priority": "87300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1015350",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "392",
+        "name": "パスタ",
+        "priority": "72200",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1014200",
+        "collection_category_id": "6",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "393",
+        "name": "ブリアン・\nデ・\nシャトー",
+        "priority": "69400",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1015591",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "394",
+        "name": "孫悟飯(青年期)\n&ビーデル",
+        "priority": "79500",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1015491",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "395",
+        "name": "超サイヤ人3\n孫悟空\n(ゼノ)",
+        "priority": "88000",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1015501",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "396",
+        "name": "超サイヤ人3\nベジータ\n(ゼノ)",
+        "priority": "83800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1015511",
+        "collection_category_id": "4",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "397",
+        "name": "時の界王神\n(時の力解放)",
+        "priority": "75900",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1015521",
+        "collection_category_id": "3",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "398",
+        "name": "超ミラ",
+        "priority": "82800",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1015531",
+        "collection_category_id": "7",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "399",
+        "name": "魔神ドミグラ\n(魔強化形態)",
+        "priority": "65300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1015541",
+        "collection_category_id": "1",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "400",
+        "name": "暗黒仮面王",
+        "priority": "99600",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1015551",
+        "collection_category_id": "2",
+        "created_at": "2018-11-20 05:47:22",
+        "id": "401",
+        "name": "黒仮面の\nサイヤ人",
+        "priority": "95300",
+        "updated_at": "2018-11-20 05:47:22"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1015800",
+        "collection_category_id": "6",
+        "created_at": "2019-03-31 13:31:15",
+        "id": "402",
+        "name": "ボタマゲッタ",
+        "priority": "66010",
+        "updated_at": "2019-03-31 13:31:15"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1015791",
+        "collection_category_id": "6",
+        "created_at": "2019-03-31 13:31:15",
+        "id": "403",
+        "name": "フロスト\n(フルパワー)",
+        "priority": "67690",
+        "updated_at": "2019-03-31 13:31:15"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1015181",
+        "collection_category_id": "8",
+        "created_at": "2018-12-05 02:04:49",
+        "id": "404",
+        "name": "ヤムチャ\n&プーアル",
+        "priority": "62490",
+        "updated_at": "2018-12-05 02:04:49"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1014081",
+        "collection_category_id": "4",
+        "created_at": "2018-12-14 00:01:36",
+        "id": "405",
+        "name": "トランクス\n(青年期)(未来)\n&マイ(未来)",
+        "priority": "74050",
+        "updated_at": "2018-12-14 00:01:36"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1015860",
+        "collection_category_id": "4",
+        "created_at": "2018-12-14 00:01:36",
+        "id": "406",
+        "name": "トランクス\n(幼年期)\n&マイ",
+        "priority": "74450",
+        "updated_at": "2018-12-14 00:01:36"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1015960",
+        "collection_category_id": "3",
+        "created_at": "2018-12-26 02:10:38",
+        "id": "407",
+        "name": "超サイヤ人\nゴジータ",
+        "priority": "90290",
+        "updated_at": "2018-12-26 02:10:38"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1016051",
+        "collection_category_id": "3",
+        "created_at": "2018-12-26 02:10:38",
+        "id": "408",
+        "name": "超サイヤ人ゴッド\nベジータ",
+        "priority": "84100",
+        "updated_at": "2018-12-26 02:10:38"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1014511",
+        "collection_category_id": "6",
+        "created_at": "2018-12-26 02:10:38",
+        "id": "409",
+        "name": "ブロリー\n(怒り)",
+        "priority": "67590",
+        "updated_at": "2018-12-26 02:10:38"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1016081",
+        "collection_category_id": "6",
+        "created_at": "2018-12-26 02:10:38",
+        "id": "410",
+        "name": "パラガス\n&ブロリー",
+        "priority": "71790",
+        "updated_at": "2018-12-26 02:10:38"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1016290",
+        "collection_category_id": "2",
+        "created_at": "2019-01-28 02:02:35",
+        "id": "411",
+        "name": "ギル",
+        "priority": "96350",
+        "updated_at": "2019-01-28 02:02:35"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011330",
+        "collection_category_id": "6",
+        "created_at": "2019-02-14 03:05:29",
+        "id": "412",
+        "name": "ベジータJr.",
+        "priority": "66750",
+        "updated_at": "2019-02-14 03:05:29"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011341",
+        "collection_category_id": "3",
+        "created_at": "2019-02-14 03:05:29",
+        "id": "413",
+        "name": "超サイヤ人\nベジータJr.",
+        "priority": "83650",
+        "updated_at": "2019-02-14 03:05:29"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1016350",
+        "collection_category_id": "3",
+        "created_at": "2019-02-18 02:02:50",
+        "id": "414",
+        "name": "孫悟空(GT)\n&パン(GT)\n&トランクス(GT)",
+        "priority": "80350",
+        "updated_at": "2019-02-18 02:02:50"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1016231",
+        "collection_category_id": "3",
+        "created_at": "2019-03-05 02:35:46",
+        "id": "415",
+        "name": "孫悟空\n(少年期)\n&則巻アラレ",
+        "priority": "80330",
+        "updated_at": "2019-03-05 02:35:46"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1016190",
+        "collection_category_id": "6",
+        "created_at": "2019-03-18 00:03:13",
+        "id": "416",
+        "name": "複製ベジータ",
+        "priority": "69750",
+        "updated_at": "2019-03-18 00:03:13"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1016201",
+        "collection_category_id": "6",
+        "created_at": "2019-03-18 00:03:13",
+        "id": "417",
+        "name": "複製ベジータ\n(超サイヤ人ゴッドSS)",
+        "priority": "69740",
+        "updated_at": "2019-03-18 00:03:13"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1016710",
+        "collection_category_id": "3",
+        "created_at": "2019-03-31 13:31:15",
+        "id": "418",
+        "name": "孫悟空\n(DOKKAN武闘伝)",
+        "priority": "80650",
+        "updated_at": "2019-03-31 13:31:15"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1016720",
+        "collection_category_id": "6",
+        "created_at": "2019-03-31 13:31:15",
+        "id": "419",
+        "name": "ベジータ\n(DOKKAN武闘伝)",
+        "priority": "67050",
+        "updated_at": "2019-03-31 13:31:15"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1016920",
+        "collection_category_id": "3",
+        "created_at": "2019-03-31 13:31:15",
+        "id": "420",
+        "name": "サオネル&ピリナ",
+        "priority": "93350",
+        "updated_at": "2019-03-31 13:31:15"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1017030",
+        "collection_category_id": "1",
+        "created_at": "2019-03-31 13:31:15",
+        "id": "421",
+        "name": "ヴァドス",
+        "priority": "99350",
+        "updated_at": "2019-03-31 13:31:15"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1016790",
+        "collection_category_id": "3",
+        "created_at": "2019-06-28 02:06:29",
+        "id": "422",
+        "name": "孫悟飯(青年期)\n&孫悟天(幼年期)",
+        "priority": "79550",
+        "updated_at": "2019-06-28 02:06:29"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1016801",
+        "collection_category_id": "3",
+        "created_at": "2019-06-28 02:06:29",
+        "id": "423",
+        "name": "超サイヤ人孫悟飯\n(青年期)&超サイヤ人\n孫悟天(幼年期)",
+        "priority": "86650",
+        "updated_at": "2019-06-28 02:06:29"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1016820",
+        "collection_category_id": "2",
+        "created_at": "2019-04-16 02:15:46",
+        "id": "424",
+        "name": "カリフラ\n&ケール",
+        "priority": "97450",
+        "updated_at": "2019-04-16 02:15:46"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1016831",
+        "collection_category_id": "3",
+        "created_at": "2019-04-16 02:15:46",
+        "id": "425",
+        "name": "超サイヤ人カリフラ\n&超サイヤ人ケール",
+        "priority": "90150",
+        "updated_at": "2019-04-16 02:15:46"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1016841",
+        "collection_category_id": "3",
+        "created_at": "2019-04-16 02:15:46",
+        "id": "426",
+        "name": "超サイヤ人2カリフラ\n&超サイヤ人2ケール",
+        "priority": "90050",
+        "updated_at": "2019-04-16 02:15:46"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1017010",
+        "collection_category_id": "2",
+        "created_at": "2019-04-25 02:01:46",
+        "id": "427",
+        "name": "ゴワス",
+        "priority": "93750",
+        "updated_at": "2019-04-25 02:01:46"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1017021",
+        "collection_category_id": "2",
+        "created_at": "2019-04-25 02:01:46",
+        "id": "428",
+        "name": "ゴワス&ザマス",
+        "priority": "93740",
+        "updated_at": "2019-04-25 02:01:46"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1015920",
+        "collection_category_id": "6",
+        "created_at": "2019-05-13 02:02:49",
+        "id": "429",
+        "name": "ビルス\n(モナカの着ぐるみ)",
+        "priority": "70150",
+        "updated_at": "2019-05-13 02:02:49"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1017230",
+        "collection_category_id": "2",
+        "created_at": "2019-05-08 03:11:35",
+        "id": "430",
+        "name": "ゴジータ",
+        "priority": "94350",
+        "updated_at": "2019-05-08 03:11:35"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1016960",
+        "collection_category_id": "6",
+        "created_at": "2019-05-21 02:05:09",
+        "id": "431",
+        "name": "ハッチャン",
+        "priority": "72050",
+        "updated_at": "2019-05-21 02:05:09"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1006080",
+        "collection_category_id": "2",
+        "created_at": "2019-05-21 02:05:09",
+        "id": "432",
+        "name": "牛魔王",
+        "priority": "96450",
+        "updated_at": "2019-05-21 02:05:09"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1017250",
+        "collection_category_id": "6",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "433",
+        "name": "ビート",
+        "priority": "70950",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1017260",
+        "collection_category_id": "2",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "434",
+        "name": "グレート\nサイヤマン4号",
+        "priority": "95370",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1017360",
+        "collection_category_id": "1",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "435",
+        "name": "アムズ\n(第二形態)",
+        "priority": "99860",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1017370",
+        "collection_category_id": "1",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "436",
+        "name": "アムズ\n(第三形態)",
+        "priority": "99850",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1017290",
+        "collection_category_id": "3",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "437",
+        "name": "シーラス",
+        "priority": "92960",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1017270",
+        "collection_category_id": "2",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "438",
+        "name": "グレート\nサイヤマン3号",
+        "priority": "95380",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1017390",
+        "collection_category_id": "3",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "439",
+        "name": "孫悟空\n(ゼノ)",
+        "priority": "80750",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1017400",
+        "collection_category_id": "6",
+        "created_at": "2019-06-21 00:03:27",
+        "id": "440",
+        "name": "ベジータ\n(ゼノ)",
+        "priority": "67080",
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1017321",
+        "collection_category_id": "7",
+        "created_at": "2019-06-28 02:06:29",
+        "id": "441",
+        "name": "メカフリーザ\n&コルド大王",
+        "priority": "63150",
+        "updated_at": "2019-06-28 02:06:29"
+    },
+    {
+        "background_id": "5",
+        "card_id": "1017381",
+        "collection_category_id": "3",
+        "created_at": "2019-08-26 02:02:37",
+        "id": "442",
+        "name": "孫悟空(少年期)\n&ブルマ(少女期)",
+        "priority": "80320",
+        "updated_at": "2019-08-26 02:02:37"
+    },
+    {
+        "background_id": "3",
+        "card_id": "1017661",
+        "collection_category_id": "3",
+        "created_at": "2019-08-21 02:02:55",
+        "id": "443",
+        "name": "超ベジータ\n/超トランクス",
+        "priority": "83690",
+        "updated_at": "2019-08-21 02:02:55"
+    },
+    {
+        "background_id": "1",
+        "card_id": "1017741",
+        "collection_category_id": "3",
+        "created_at": "2019-08-26 02:02:37",
+        "id": "444",
+        "name": "超サイヤ人\n孫悟空\n/超サイヤ人\n孫悟飯(少年期)",
+        "priority": "87950",
+        "updated_at": "2019-08-26 02:02:37"
+    },
+    {
+        "background_id": "2",
+        "card_id": "1017690",
+        "collection_category_id": "9",
+        "created_at": "2019-08-09 02:03:20",
+        "id": "445",
+        "name": "六星龍\n(乙姫)",
+        "priority": "61290",
+        "updated_at": "2019-08-09 02:03:20"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1018031",
+        "collection_category_id": "3",
+        "created_at": "2019-09-17 00:03:09",
+        "id": "446",
+        "name": "人造人間\n17号&18号\n/人造人間16号",
+        "priority": "91450",
+        "updated_at": "2019-09-17 00:03:09"
+    }
+]

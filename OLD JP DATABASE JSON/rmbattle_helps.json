@@ -1,0 +1,83 @@
+[
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "1",
+        "num": "1",
+        "rmbattle_help_category_id": "999",
+        "title": "大乱戦とは？",
+        "updated_at": "2018-10-16 02:07:12"
+    },
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "2",
+        "num": "6",
+        "rmbattle_help_category_id": "1",
+        "title": "参加方法と制限",
+        "updated_at": "2018-06-25 04:47:15"
+    },
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "3",
+        "num": "5",
+        "rmbattle_help_category_id": "1",
+        "title": "参加可能なキャラクター",
+        "updated_at": "2018-06-25 04:47:15"
+    },
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "4",
+        "num": "4",
+        "rmbattle_help_category_id": "1",
+        "title": "敵選択",
+        "updated_at": "2018-06-25 04:47:15"
+    },
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "5",
+        "num": "3",
+        "rmbattle_help_category_id": "1",
+        "title": "サブリーダー",
+        "updated_at": "2018-06-25 04:47:15"
+    },
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "6",
+        "num": "2",
+        "rmbattle_help_category_id": "1",
+        "title": "バトル",
+        "updated_at": "2018-06-25 04:47:15"
+    },
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "7",
+        "num": "1",
+        "rmbattle_help_category_id": "1",
+        "title": "ゲームオーバー・リタイア",
+        "updated_at": "2018-06-25 04:47:15"
+    },
+    {
+        "created_at": "2018-03-15 02:14:41",
+        "description": "description: helps",
+        "id": "8",
+        "num": "1",
+        "rmbattle_help_category_id": "2",
+        "title": "ミッション報酬",
+        "updated_at": "2018-03-15 02:14:41"
+    },
+    {
+        "created_at": "2018-08-15 02:05:40",
+        "description": "description: helps",
+        "id": "9",
+        "num": "2",
+        "rmbattle_help_category_id": "2",
+        "title": "激闘の記憶について",
+        "updated_at": "2018-08-15 02:05:40"
+    }
+]

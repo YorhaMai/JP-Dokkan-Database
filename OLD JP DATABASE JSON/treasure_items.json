@@ -1,0 +1,472 @@
+[
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "冒険などで手に入る秘宝\n占いババの交換所で様々なアイテムと交換が可能",
+        "id": "1",
+        "image_suffix_number": "1",
+        "name": "ふしぎな宝石",
+        "rarity": "0",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「ドラゴンボールGT ~究極のDB編~」で手に入る秘宝",
+        "id": "2",
+        "image_suffix_number": "5",
+        "name": "金属果実",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「ドラゴンボールGT ~復讐鬼ベビー編~」で手に入る秘宝",
+        "id": "3",
+        "image_suffix_number": "10",
+        "name": "サタンバッジ",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる特別な秘宝",
+        "id": "4",
+        "image_suffix_number": "6",
+        "name": "30thコイン",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "2周年記念に集められるコイン",
+        "id": "5",
+        "image_suffix_number": "7",
+        "name": "2周年コイン",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「オッス! 帰ってきた孫悟空と仲間たち!!」で手に入る秘宝",
+        "id": "6",
+        "image_suffix_number": "11",
+        "name": "ヨカッタネ大根",
+        "rarity": "0",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「オッス! 帰ってきた孫悟空と仲間たち!!」で\n稀に手に入る秘宝",
+        "id": "7",
+        "image_suffix_number": "12",
+        "name": "ヨカッタネ大根(特大)",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「ドラゴンボール超 宇宙サバイバル編」で手に入る秘宝",
+        "id": "8",
+        "image_suffix_number": "13",
+        "name": "カチカッチン鋼",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「スーパーバトルロード」で手に入る秘宝",
+        "id": "9",
+        "image_suffix_number": "14",
+        "name": "闘覇の輝き",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「不屈の戦士 ベジータ」で手に入る秘宝",
+        "id": "10",
+        "image_suffix_number": "15",
+        "name": "プリン",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "3周年記念に集められるコイン",
+        "id": "11",
+        "image_suffix_number": "8",
+        "name": "3周年コイン",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "七夕の期間に入手できる特別な秘宝",
+        "id": "12",
+        "image_suffix_number": "16",
+        "name": "願いの短冊",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「神龍の伝説」で手に入る秘宝",
+        "id": "13",
+        "image_suffix_number": "17",
+        "name": "リッチストン",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「魔神城のねむり姫」で手に入る秘宝",
+        "id": "14",
+        "image_suffix_number": "18",
+        "name": "ねむり姫",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "4周年記念に集められるコイン",
+        "id": "15",
+        "image_suffix_number": "19",
+        "name": "4周年コイン",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「摩訶不思議大冒険」で手に入る秘宝",
+        "id": "16",
+        "image_suffix_number": "32",
+        "name": "ランラン",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「ベジータ消滅！？ポトフ星の秘密」で手に入る秘宝",
+        "id": "17",
+        "image_suffix_number": "33",
+        "name": "超人水封印の鍵",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる青い龍石",
+        "id": "1000",
+        "image_suffix_number": "21",
+        "name": "スーパー龍石",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる赤い龍石",
+        "id": "1001",
+        "image_suffix_number": "20",
+        "name": "ゴッド龍石",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる青い龍石",
+        "id": "1002",
+        "image_suffix_number": "22",
+        "name": "スーパー龍石2",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる赤い龍石",
+        "id": "1003",
+        "image_suffix_number": "23",
+        "name": "ゴッド龍石2",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる青い龍石",
+        "id": "1004",
+        "image_suffix_number": "24",
+        "name": "スーパー龍石3",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる赤い龍石",
+        "id": "1005",
+        "image_suffix_number": "25",
+        "name": "ゴッド龍石3",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる紫色の龍石",
+        "id": "1006",
+        "image_suffix_number": "26",
+        "name": "プレミアム超龍石",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる赤い龍石",
+        "id": "1007",
+        "image_suffix_number": "27",
+        "name": "ゴッド龍石4",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる赤い龍石",
+        "id": "1008",
+        "image_suffix_number": "28",
+        "name": "ゴッド龍石5",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる紫色の龍石",
+        "id": "1009",
+        "image_suffix_number": "29",
+        "name": "プレミアム超龍石2",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる赤い龍石",
+        "id": "1010",
+        "image_suffix_number": "1010",
+        "name": "ゴッド龍石6",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる青い龍石",
+        "id": "1011",
+        "image_suffix_number": "1011",
+        "name": "スーパー龍石4",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる赤い龍石",
+        "id": "1012",
+        "image_suffix_number": "1012",
+        "name": "ゴッド龍石7",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる紫色の龍石",
+        "id": "1013",
+        "image_suffix_number": "1013",
+        "name": "プレミアム超龍石3",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-08-26 02:10:42",
+        "description": "龍石購入時に入手できる紫色の龍石\n占いババの交換所で交換が可能",
+        "id": "1014",
+        "image_suffix_number": "1014",
+        "name": "プレミアム超龍石4",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-08-26 02:10:42"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できる青い龍石\n占いババの交換所で交換が可能",
+        "id": "1015",
+        "image_suffix_number": "1015",
+        "name": "スーパー龍石5",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-08-26 02:10:42",
+        "description": "期間限定で入手できる赤い龍石\n占いババの交換所で交換が可能",
+        "id": "1016",
+        "image_suffix_number": "1016",
+        "name": "ゴッド龍石8",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-08-26 02:10:42"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "大乱戦で獲得できる秘宝\n占いババの交換所で様々なアイテムと交換が可能",
+        "id": "2000",
+        "image_suffix_number": "2000",
+        "name": "激闘の記憶",
+        "rarity": "2",
+        "selling_exchange_point": "0",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できるアイテム",
+        "id": "3000",
+        "image_suffix_number": "30",
+        "name": "劇戦の書 第一巻",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できるアイテム",
+        "id": "3001",
+        "image_suffix_number": "31",
+        "name": "劇戦の書 第二巻",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できるアイテム",
+        "id": "3002",
+        "image_suffix_number": "3002",
+        "name": "劇戦の書 第三巻",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "龍石購入時に入手できるアイテム",
+        "id": "3003",
+        "image_suffix_number": "3003",
+        "name": "劇戦の書 第四巻",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できるアイテム",
+        "id": "3100",
+        "image_suffix_number": "3100",
+        "name": "劇戦の書 孫家の巻",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "期間限定で入手できる特別な秘宝\n占いババの交換所で交換が可能",
+        "id": "3200",
+        "image_suffix_number": "3200",
+        "name": "ベジータ王家の紋章",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "七夕の期間に入手できる特別な秘宝\n占いババの交換所で交換が可能",
+        "id": "3300",
+        "image_suffix_number": "3300",
+        "name": "願いの短冊2",
+        "rarity": "2",
+        "selling_exchange_point": "10000",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "界王神からの試練で獲得できる秘宝",
+        "id": "4001",
+        "image_suffix_number": "4001",
+        "name": "神王石",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "「宇宙最強！？大いなるポンタへの挑戦！」で\n手に入る秘宝\n占いババの交換所で交換が可能",
+        "id": "5001",
+        "image_suffix_number": "5001",
+        "name": "宇宙で大人気のスイーツ",
+        "rarity": "2",
+        "selling_exchange_point": "1",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "対象のガシャから手に入る秘宝\n占いババの交換所で交換が可能",
+        "id": "7000",
+        "image_suffix_number": "7000",
+        "name": "DOKKANフェスコイン",
+        "rarity": "3",
+        "selling_exchange_point": "0",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "対象のガシャから手に入る秘宝\n占いババの交換所で交換が可能",
+        "id": "7001",
+        "image_suffix_number": "7001",
+        "name": "伝説降臨コイン",
+        "rarity": "3",
+        "selling_exchange_point": "0",
+        "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-07-22 00:52:10",
+        "description": "対象のガシャから手に入る秘宝\n占いババの交換所で交換が可能",
+        "id": "7002",
+        "image_suffix_number": "7002",
+        "name": "ガシャコイン",
+        "rarity": "3",
+        "selling_exchange_point": "0",
+        "updated_at": "2019-07-22 00:52:10"
+    }
+]

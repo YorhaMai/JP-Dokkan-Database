@@ -1,0 +1,2864 @@
+[
+    {
+        "cau_val1": "2",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "5",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "4",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "3",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "5",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "5",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "59",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "6",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "16",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "9",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "100",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "10",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "100",
+        "cau_val2": "1",
+        "cau_val3": "0",
+        "causality_type": "37",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "11",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "9",
+        "causality_type": "0",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "12",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "25",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "13",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "7",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "14",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "30",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "15",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "14",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "16",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "20",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "17",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "3",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "15",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "18",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "100",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "19",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "160",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "20",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "50",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "21",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "15",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "22",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "10",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "23",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "24",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "24",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "19",
+        "created_at": "2019-07-22 00:51:26",
+        "id": "25",
+        "updated_at": "2019-07-22 00:51:26"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "19",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "26",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "50",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "27",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "80",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "28",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "30",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "29",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "200",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "31",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "31",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "32",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "19",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "33",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "70",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "34",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "120",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "35",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "100",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "20",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "36",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "25",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "37",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "100",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "38",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "14",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "39",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "99",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "4",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "40",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "8",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "41",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "80",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "42",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "99",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "43",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "130",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "44",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "140",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "45",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "400",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "46",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "300",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "47",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "240",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "48",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "192",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "49",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "80",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "50",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "290",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "51",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "175",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "52",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "4",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "0",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "53",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "5",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "0",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "54",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "3",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "0",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "55",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "0",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "56",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "30",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "57",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "150",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "58",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "266",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "59",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "233",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "60",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "40",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "61",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "0",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "62",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "250",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "63",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "297",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "64",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "180",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "65",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "4",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "16",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "66",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "3",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "16",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "67",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "40",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "68",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "333",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "69",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "20",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "70",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "275",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "71",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "350",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "72",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "60",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "73",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "70",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "74",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "600",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "75",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "4",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "76",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "4",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "77",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "4",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "78",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "4",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "79",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "4",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "80",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "4",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "81",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "4",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "82",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "6",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "83",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "6",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "84",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "6",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "85",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "6",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "86",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "6",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "87",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "6",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "88",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "6",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "89",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "225",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "90",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "256",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "38",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "91",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1024",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "38",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "92",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "93",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "94",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "95",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "96",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "77",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "97",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "13",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "98",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "13",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "99",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "13",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "100",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "4",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "15",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "101",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "5",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "15",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "102",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "6",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "15",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "103",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "7",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "15",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "104",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "16",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "38",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "105",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "80",
+        "cau_val2": "100",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "106",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "50",
+        "cau_val2": "80",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "107",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "50",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "108",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "60",
+        "cau_val2": "80",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "109",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "40",
+        "cau_val2": "60",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "110",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "20",
+        "cau_val2": "40",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "111",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "20",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "112",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "113",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "114",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "115",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "116",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "117",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "118",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "119",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "24",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "120",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "24",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "121",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "24",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "122",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "24",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "123",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "24",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "124",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "24",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "125",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "100",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "126",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "4",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "127",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "26",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "128",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "26",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "129",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "26",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "130",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "26",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "131",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "19",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "132",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "26",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "133",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "26",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "134",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "26",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "135",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "16",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "136",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "17",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "137",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "3",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "138",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "21",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "139",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "5",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "140",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "40",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "141",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "31",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "142",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "30",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "143",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "60",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "144",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "2",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "145",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "146",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "147",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "148",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "149",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "150",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "151",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "152",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "5",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "153",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "21",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "154",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "31",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "155",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "370",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "4",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "156",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "27",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "157",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "27",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "158",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "27",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "159",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "27",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "160",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "27",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "161",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "27",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "162",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "27",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "163",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "18",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "164",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "18",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "165",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "18",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "166",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "18",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "167",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "18",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "168",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "18",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "169",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "18",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "170",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "26",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "171",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "17",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "173",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "17",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "174",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "17",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "175",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "17",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "176",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "17",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "177",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "17",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "178",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "17",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "179",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "28",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "180",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "28",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "181",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "28",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "182",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "28",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "183",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "28",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "184",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "28",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "185",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "28",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "186",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "6",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "187",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "126976",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "35",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "196",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "4063232",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "35",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "197",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "4",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "5",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "200",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "30",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "202",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "31",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "203",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "450",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "204",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "64",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "39",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "205",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "32",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "38",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "206",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "90",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "207",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "81",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "208",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "29",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "209",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "29",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "210",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "29",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "211",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "36",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "212",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "34",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "214",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "34",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "215",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "34",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "216",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "34",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "217",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "34",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "218",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "34",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "219",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "34",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-22 00:51:27",
+        "id": "220",
+        "updated_at": "2019-07-22 00:51:27"
+    },
+    {
+        "cau_val1": "63",
+        "cau_val2": "4",
+        "cau_val3": "0",
+        "causality_type": "42",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "221",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "63",
+        "cau_val2": "6",
+        "cau_val3": "0",
+        "causality_type": "42",
+        "created_at": "2019-08-05 02:06:21",
+        "id": "222",
+        "updated_at": "2019-08-05 02:06:21"
+    },
+    {
+        "cau_val1": "63",
+        "cau_val2": "8",
+        "cau_val3": "0",
+        "causality_type": "42",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "223",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "57",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "224",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "79",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "225",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "494",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "226",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "112",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "228",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "411",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "229",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "78",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "230",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "495",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "231",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "32",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "232",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "32",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "233",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "32",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "234",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "32",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "235",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "32",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "236",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "32",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "237",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "32",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "238",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "58",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "239",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "22",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "240",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "10",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-07-29 02:05:34",
+        "id": "241",
+        "updated_at": "2019-07-29 02:05:34"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "102",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-07-29 02:05:34",
+        "id": "242",
+        "updated_at": "2019-07-29 02:05:34"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "414",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-07-29 02:05:34",
+        "id": "243",
+        "updated_at": "2019-07-29 02:05:34"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "24",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "245",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "33",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-08-26 02:05:36",
+        "id": "246",
+        "updated_at": "2019-08-26 02:05:36"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "33",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-08-26 02:05:36",
+        "id": "247",
+        "updated_at": "2019-08-26 02:05:36"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "33",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-08-26 02:05:36",
+        "id": "248",
+        "updated_at": "2019-08-26 02:05:36"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "33",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-08-26 02:05:36",
+        "id": "249",
+        "updated_at": "2019-08-26 02:05:36"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "33",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-08-26 02:05:36",
+        "id": "250",
+        "updated_at": "2019-08-26 02:05:36"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "499",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "251",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "70",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "252",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "25",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "254",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "25",
+        "cau_val2": "50",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "255",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "50",
+        "cau_val2": "75",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "256",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "75",
+        "cau_val2": "100",
+        "cau_val3": "0",
+        "causality_type": "33",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "257",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "9",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "258",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "160",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "259",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "49",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "260",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "261",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "262",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "263",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "264",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "265",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "266",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-07-29 02:05:35",
+        "id": "267",
+        "updated_at": "2019-07-29 02:05:35"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "38",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-08-26 02:05:36",
+        "id": "268",
+        "updated_at": "2019-08-26 02:05:36"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "84",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-09 02:04:39",
+        "id": "269",
+        "updated_at": "2019-08-09 02:04:39"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "246",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-09 02:04:39",
+        "id": "270",
+        "updated_at": "2019-08-09 02:04:39"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "457",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-09 02:04:39",
+        "id": "271",
+        "updated_at": "2019-08-09 02:04:39"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "496",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-26 02:05:36",
+        "id": "272",
+        "updated_at": "2019-08-26 02:05:36"
+    },
+    {
+        "cau_val1": "48",
+        "cau_val2": "1",
+        "cau_val3": "0",
+        "causality_type": "38",
+        "created_at": "2019-08-09 02:04:39",
+        "id": "273",
+        "updated_at": "2019-08-09 02:04:39"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "1",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "274",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "38",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "275",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "38",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "276",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "38",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "277",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "38",
+        "cau_val3": "4",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "278",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "38",
+        "cau_val3": "5",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "279",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "38",
+        "cau_val3": "6",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "280",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "38",
+        "cau_val3": "7",
+        "causality_type": "34",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "281",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "22",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "282",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "20",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "283",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "66",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "284",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "38",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "285",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "66",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "286",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "21",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "287",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "6",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "288",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "78",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "289",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "80",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "290",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "112",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "291",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "341",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "292",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "402",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "293",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "411",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "294",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "495",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:46",
+        "id": "295",
+        "updated_at": "2019-09-17 00:07:46"
+    },
+    {
+        "cau_val1": "100",
+        "cau_val2": "2",
+        "cau_val3": "0",
+        "causality_type": "37",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "296",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "300",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "3",
+        "created_at": "2019-09-12 02:07:54",
+        "id": "297",
+        "updated_at": "2019-09-12 02:07:54"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "502",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "298",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "483",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 02:05:24",
+        "id": "299",
+        "updated_at": "2019-08-29 02:05:24"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "501",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-08-29 05:46:48",
+        "id": "300",
+        "updated_at": "2019-08-29 05:46:48"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "504",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:47",
+        "id": "305",
+        "updated_at": "2019-09-17 00:07:47"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "504",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-09-17 00:07:47",
+        "id": "306",
+        "updated_at": "2019-09-17 00:07:47"
+    },
+    {
+        "cau_val1": "50",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "307",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "58",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "2",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "308",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "58",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "1",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "309",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "8",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "311",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "56",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "312",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "113",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "313",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "129",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "314",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "227",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "315",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "229",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "316",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "230",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "317",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "244",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "318",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "311",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "319",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "366",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "320",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "444",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "321",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "474",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "322",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "475",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "323",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "498",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "324",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "40",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "325",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "40",
+        "cau_val3": "2",
+        "causality_type": "34",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "326",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "40",
+        "cau_val3": "3",
+        "causality_type": "34",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "327",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "21",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "328",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "231",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "329",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "232",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "330",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "0",
+        "cau_val2": "507",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "331",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "21",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "332",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "6",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "333",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "78",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "334",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "80",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "335",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "112",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "336",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "341",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "337",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "402",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "338",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "411",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "339",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "495",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "340",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "0",
+        "cau_val3": "0",
+        "causality_type": "15",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "341",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "21",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "342",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "83",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "343",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "1",
+        "cau_val2": "5",
+        "cau_val3": "1",
+        "causality_type": "34",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "344",
+        "updated_at": "2019-10-02 02:05:18"
+    },
+    {
+        "cau_val1": "2",
+        "cau_val2": "82",
+        "cau_val3": "1",
+        "causality_type": "41",
+        "created_at": "2019-10-02 02:05:18",
+        "id": "345",
+        "updated_at": "2019-10-02 02:05:18"
+    }
+]

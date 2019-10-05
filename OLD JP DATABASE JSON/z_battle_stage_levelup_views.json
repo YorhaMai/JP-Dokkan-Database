@@ -1,0 +1,37 @@
+[
+    {
+        "created_at": "2017-11-14 02:17:09",
+        "id": "1",
+        "scene_name": "ef_001",
+        "stage_level": "1",
+        "updated_at": "2017-11-14 02:17:09"
+    },
+    {
+        "created_at": "2017-11-14 02:17:09",
+        "id": "2",
+        "scene_name": "ef_002",
+        "stage_level": "5",
+        "updated_at": "2017-11-14 02:17:09"
+    },
+    {
+        "created_at": "2017-11-14 02:17:09",
+        "id": "3",
+        "scene_name": "ef_003",
+        "stage_level": "10",
+        "updated_at": "2017-11-14 02:17:09"
+    },
+    {
+        "created_at": "2017-11-14 02:17:09",
+        "id": "4",
+        "scene_name": "ef_004",
+        "stage_level": "20",
+        "updated_at": "2017-11-14 02:17:09"
+    },
+    {
+        "created_at": "2017-11-14 02:17:09",
+        "id": "5",
+        "scene_name": "ef_005",
+        "stage_level": "30",
+        "updated_at": "2017-11-14 02:17:09"
+    }
+]

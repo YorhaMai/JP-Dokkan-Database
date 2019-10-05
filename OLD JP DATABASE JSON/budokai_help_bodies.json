@@ -1,0 +1,458 @@
+[
+    {
+        "budokai_help_id": "1",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会が開催期間中に、\nホーム画面の「出発」ボタン内にある\n「天下一武道会」を押下することで、\n 天下一武道会画面に移動することができます。",
+        "id": "1",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "1",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会の開催期間中は\n{color: #FFFF00}トーナメント{color}に参加することができます。\n\nトーナメントでは、予選、準決勝といった\n「ラウンド」毎に{color: #FFFF00}武道会pt{color}をどれだけ獲得できるかを\n競い合います。",
+        "id": "2",
+        "image_path": "images/help_ten1/1_1_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "1",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "トーナメントを勝ち上がり、「武道会pt」を得ながら\n優勝を目指しましょう。\n\nまた、武道会ptを積み重ね、ランキングに入ることが\nできれば報酬を獲得することができます。",
+        "id": "3",
+        "image_path": "images/help_ten1/20160414_1_1_2.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "1",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n武道会開催期間内であれば、何度でもトーナメントに\n参加することができるので、途中で負けても諦めず\n挑戦してみましょう。",
+        "id": "4",
+        "image_path": "images/help_ten1/rule.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "2",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "武道会のTOP画面で、中央のボタンが{color: #FFFF00}「参加する」{color}に\nなっていれば、トーナメントに参加することができます。\n",
+        "id": "5",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "2",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "途中まで勝ち上がっている場合、{color: #FFFF00}「続きから」{color}を\n選択することでトーナメントの続きから\n進めることができます。",
+        "id": "6",
+        "image_path": "images/help_ten1/tournament.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "2",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nトーナメントに参加中のチームは通常の冒険や\nイベントでも使用可能ですが、トーナメントを\n終えるまでは{color: #FFFF00}チームの編成{color}が行えません。",
+        "id": "7",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "2",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nトーナメントの参加中は、ラウンドが終了しても\nチームのHPは回復せず引き継がれますので\nアイテムの補給を怠らないようにしましょう。\n\nトーナメントは\n　・優勝\n　・リタイア\n　・バトルでHPが0になった際の「ゲームオーバー」\n　・勝ち抜けに失敗\n　・すごろく（バトル）中に「あきらめる」を\n　　選択してリタイア\nすることで終了します。",
+        "id": "8",
+        "image_path": "images/help_ten1/1_2_2_2.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "3",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会は{color: #FFFF00}「武道会pt」{color}で成績が決まります。\n\n武道会ptはトーナメント中、予選突破などの\nラウンド勝ちあがり時や、バトル、すごろくで\n獲得できます。\n\nこのポイントの合計を{color: #FFFF00}「獲得武道会pt」{color}と呼びます。\n",
+        "id": "9",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "3",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n一方、{color: #FFFF00}「総合武道会pt」{color}は\n大会期間全体での成績をあらわしています。\n\nラウンド中(予選や準決勝、決勝)に獲得した武道会ptが\nラウンド終了時に「総合武道会pt」として加算されます。",
+        "id": "10",
+        "image_path": "images/help_ten1/20160407-Help_13.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "3",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nトーナメントを途中で「リタイア」すると\n獲得中の武道会ptはそのまま加算されますが\nゲームオーバーによる敗退、\nまたは、すごろく（バトル）中に「あきらめる」を\n選択してリタイアした場合は\nそのラウンド中に獲得した武道会ptが\n破棄されてしまいます。\nそのトーナメント中に稼いだ武道会ptは\nそのまま加算されます。\n\n途中でリタイアして安全にいくか、優勝を目指して\n次へ進むか、チームの実力と相談して決めましょう。\n\nまた、開催期間が過ぎてからトーナメントを\n勝ち上がっても、総合武道会ptには\n反映されないので注意しましょう。\n\n総合武道会ptは、大会が終了するとリセットされます。",
+        "id": "11",
+        "image_path": "images/help_ten1/budokai_pt.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "4",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "大会開催期間中に獲得した{color: #FFFF00}総合武道会pt{color}によって\n{color: #FFFF00}ランキング{color}が決定されます。",
+        "id": "12",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "4",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n大会終了時の順位で、報酬が決定されます。\n（ポイントが同一だった場合、順位も同一になります。）\n\nまた、表示切替ボタンを押すことで「優勝回数」や「連続優勝回数」(連覇達成数)を確認することができます。\n\n※開催期間中のランキングはリアルタイムでは\n   反映されないため、実際の順位が表示されるまで\n   数分かかる場合があります 。",
+        "id": "13",
+        "image_path": "images/help_ten1/1_4_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "5",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "{color: #FFFF00}総合武道会pt{color}が一定のポイントまでたまると\n{color: #FFFF00}「クラス」{color}がアップすることがあります。",
+        "id": "14",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "5",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "武道会開催時は「ピラフクラス」からのスタートと\nなりますが、トーナメントに繰り返し参加し\n勝ち上がって、クラスアップを目指しましょう。\n\nまた、「クラス」は４つのリーグによって分けられており\n上位のリーグほど獲得できる報酬に期待できます。",
+        "id": "15",
+        "image_path": "images/help_ten1/1_5_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "16",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会では、{color: #FFFF00}「フレンド」{color}の効力は\n通常冒険時とは以下の点で異なります。\n\n１：フレンドの「リーダースキル」は発動しません。",
+        "id": "16",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "16",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n２：「友情pt」の獲得はできません。",
+        "id": "17",
+        "image_path": "images/help_ten1/1_6_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "6",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会でも通常冒険と同じように\n画面下部の「スロットボタン」をタップして進みます。\n※「スロットボタン」はランダムに決まります。",
+        "id": "18",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "6",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nまた、天下一武道会では、プレイヤーと同じように\n対戦相手も進むマスの数を選択し、\nすごろくマップ上を移動します。\n\n進むマスの数が決定すると、「選んだ数字の小さい順」\nから順番に移動を開始します。  ",
+        "id": "19",
+        "image_path": "images/help_ten1/20160407-2_1_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "7",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "通常冒険と同じように、天下一武道会のマップにも\n停止したマスによって{color: #FFFF00}イベント{color}が用意されています。",
+        "id": "20",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "7",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nイベントの中には、一定ターンが経過することで\n再出現するものもあります。\n\n対戦相手も同じようにイベントを発生させるので、\n狙ったマスがあれば積極的に止まるようにしましょう。 \n\nまた、天下一武道会では、通常冒険にはない\n特殊なマスが登場します。\n\n{color: #FFFF00}▼肉まん{color}",
+        "id": "21",
+        "image_path": "images/help_ten1/2_2_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "7",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "肉まんのマスにとまるとHPが回復します。",
+        "id": "22",
+        "image_path": "images/help_ten1/tour_icon_nikuman.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "7",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n{color: #FFFF00}▼武道会pt{color}",
+        "id": "23",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "7",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "武道会ptのマスにとまると武道会ptを\n獲得することができます。",
+        "id": "24",
+        "image_path": "images/help_ten1/tour_icon_point.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "7",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n{color: #FFFF00}▼キャラクター{color}",
+        "id": "25",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "7",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "キャラクターのマスにとまると\nキャラクターを仲間にすることができます。",
+        "id": "26",
+        "image_path": "images/help_ten1/tour_icon_card.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "8",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nすごろくマップ上で得たアイテムやキャラクターは\nそのラウンドが終了した時点で獲得できます。 ",
+        "id": "27",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "8",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nただし、ゲームオーバーや「あきらめる」を\n選択した場合は獲得できません。 ",
+        "id": "28",
+        "image_path": "images/help_ten1/2_3_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "9",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会のすごろくは以下の条件で終了します。\n\n　・プレイヤーのHPが0になる\n　・プレイヤー以外のチームが全滅する\n　・規定ターン数を消化する\n　・右下のメニューから「あきらめる」を選択して\n      リタイアする",
+        "id": "29",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "9",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n対戦中のプレイヤー全員がすごろくを１度進めると\n「１ターン」経過となります。「規定ターン数」は\n予選や準決勝といった「ラウンド」毎に\n決められています。",
+        "id": "30",
+        "image_path": "images/help_ten1/2_4_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "10",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会のバトルは、フレンドを含めた\n{color: #FFFF00}7{color}vs{color: #FFFF00}7{color}で行われます。",
+        "id": "31",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "10",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n対戦相手はキャラクター毎にHPが設定されています。\nまた天下一武道会では、フレンドのリーダースキルは\n発動しません。\n\n攻撃してくるキャラクターは、画面上部のアイコンが\n黄色い枠で囲われています。\n\n通常のバトルと同じようにターゲットを\n選択することができ、その他アイテム、\n必殺技やドッカンモードも使用できます。",
+        "id": "32",
+        "image_path": "images/help_ten1/3_1_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "11",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "バトル中は以下のタイミングで{color: #FFFF00}武道会pt{color}を獲得できます。\n\n１：気の玉を獲得（自属性の方が多く獲得）\n２：敵のHPを0にする\n３：敵チームを全滅させる\n\nこの他にも、必殺技や得意属性でHPを0にすると\nボーナスがついたり、倒した敵のレベルに応じた\nボーナスなどが存在します。",
+        "id": "33",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "12",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "バトルは以下の条件で終了します。\n\n　・プレイヤーのHPが0になる\n　・対戦相手チームのキャラクターが全滅する\n　・規定チャージ数を消化する\n　・右下のメニューから「あきらめる」を選択して\n      リタイアする\n",
+        "id": "34",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "12",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "プレイヤーチームのキャラクター１体が気の玉を取ると、\n「１チャージ」となります。\n対戦画面内には「残りチャージ数」が表示されています。",
+        "id": "35",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "12",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n規定チャージ数は、予選や準決勝といった\n「ラウンド」毎に決められています。 ",
+        "id": "36",
+        "image_path": "images/help_ten1/3_3_1.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "13",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会では様々な{color: #FFFF00}報酬{color}を獲得することができます。\n\nラウンド中に得たアイテムはラウンド終了時に\n獲得できますが、チームのHPが0になった際の\n「ゲームオーバー」や「あきらめる」を選択した\n場合は獲得することができません。\n\nまた通常冒険と違い、フレンドによる友情ptは獲得できず\nキャラクター経験値の獲得は、バトル終了時ではなく\nラウンド終了時になっています。",
+        "id": "37",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "14",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会終了時の「総合武道会pt」により\nランキングが決定し、順位に応じた{color: #FFFF00}ランキング報酬{color}が\n配布されます。\n\nランキング報酬は天下一武道会TOPから\n「報酬」を選択することで確認できます。",
+        "id": "38",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "14",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n報酬配布のタイミングは大会毎によって異なるため、\n開催時の「お知らせ」を確認して下さい。",
+        "id": "39",
+        "image_path": "images/help_ten1/help_ranking_reward.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "15",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "天下一武道会に応じた「ミッション」が\n登場することがあります。",
+        "id": "40",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "15",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nミッションの詳細や報酬の概要は天下一武道会TOPから\n「報酬」＞「ミッション報酬」を選択することで\n確認できます。",
+        "id": "41",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "15",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nまた、一部のミッションは「デイリーミッション」\n「限定ミッション」として登場することがあります。",
+        "id": "42",
+        "image_path": "images/help_ten1/help_mission_reward.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "15",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n限定ミッションの詳細は「デイリーミッション」\n「限定ミッション」から確認して下さい。\n\n限定ミッションは報酬受取の期限があり、期限を過ぎると\n条件を達成していても受け取ることができません。\nミッションの期限は各ミッションの「詳細」から\n確認して下さい。 ",
+        "id": "43",
+        "image_path": "images/help/help_sp_mission_top_02.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "17",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "武道会ptは敵を撃破する以外にも\n様々なボーナスで獲得することができます。\n\n残りターン（すごろくでの残り行動数）が\n多い状態でラウンドが終了すると\nより多くのボーナスをえることができます。\n\nまた、一定の確率でボーナスデッキが登場する\nことがあります。",
+        "id": "44",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "17",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nボーナスデッキの相手を\n撃破すると通常より多くの武道会ptを\n獲得することができます。\n\nそのほか、各ボーナスはリザルトに詳細が\n表示されます。",
+        "id": "45",
+        "image_path": "images/help_ten1/20160407-Help_16.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "18",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "ローカルランキングとは\n選出された少人数のユーザー同士で争うランキングです。\n\nローカルランキングは\n{color: #FFFF00}「ローカルランキング開催期間中に獲得した武道会pt」{color}\nによってランキングが決定されます。",
+        "id": "46",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "18",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n期間終了時点の順位で、報酬が決定されます。\n\n期間中に獲得した武道会ptが同一だった場合、\n順位も同一になります。\n \n※開催期間中のランキングは\nリアルタイムでは反映されないため、\n実際の順位が表示されるまで\n数分かかる場合があります。",
+        "id": "47",
+        "image_path": "images/help_ten1/local_ranking_2.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "19",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "ローカルランキング期間中に獲得した\n武道会ptによってランキングが決定し、\n順位に応じた報酬を獲得することができます。",
+        "id": "48",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "19",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nローカルランキング報酬は\n天下一武道会TOPから「報酬」を選択することで\n確認できます。\n\nローカルランキングの期間が終了し、\nランキングの集計後にホーム画面、及び\n天下一トップ画面に遷移することで\n報酬の獲得が可能です。\n※報酬はプレゼントボックスから受け取り可能です。",
+        "id": "49",
+        "image_path": "images/help_ten1/help_local_ranking_reward.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "20",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "連覇達成ボーナスは、連続で優勝をすると\n{color: #FFFF00}優勝時の獲得武道会ptが増えるボーナス{color}です。",
+        "id": "50",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "20",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n優勝時に得られる「優勝ボーナス」に\nプラス補正がかかり、連覇達成ボーナスとして\n獲得することができます。\n\n※「優勝pt × 1.3」 の場合は、\n「優勝ボーナス = 1」+「連覇達成ボーナス = 0.3」 \nとして計算されます。",
+        "id": "51",
+        "image_path": "images/help_ten1/renpa_01.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "20",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n連覇達成回数が多いと\n連覇達成ボーナスも増加しますが、\n9連勝以降はボーナスが一定となります。\n\nまた、トーナメント中に敗北したり、\nリタイアしてしまうと\n連覇達成ボーナスはリセットされてしまいます。\n\n※再度連覇することで連覇達成ボーナスを\n獲得することができます。\n\n※連覇達成回数は天下一武道会開催毎に\nリセットされます。\n前回の天下一武道会から引き継ぎません。",
+        "id": "52",
+        "image_path": "images/help_ten1/renpa_02.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "21",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "意気込みは天下一トップ画面にて\n「参加する」ボタンを押すことで\n選択することができます。",
+        "id": "53",
+        "image_path": "",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "21",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n最初に選択できる意気込みは\n3つだけですが、条件を満たすと\n他の意気込みが解除されます。",
+        "id": "54",
+        "image_path": "images/help_ten1/ikigomi_01.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "21",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n意気込みの種類によって、トーナメント中に\n出現する敵の強さが変化し、\n勝ち上がり時ボーナス\n(予選突破ボーナスや優勝ボーナス)に\nさらにボーナスが加算されます。\n\n※「勝ち上がり時ボーナス × 10」 の場合は、\n「勝ち上がり時ボーナス = 1」\n+「意気込みボーナス = 9」 として計算されます。",
+        "id": "55",
+        "image_path": "images/help_ten1/ikigomi_03.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "21",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\nトーナメント参加中は意気込みを\n変更することはできません。",
+        "id": "56",
+        "image_path": "images/help_ten1/ikigomi_02.png",
+        "updated_at": "2019-07-22 00:42:20"
+    },
+    {
+        "budokai_help_id": "21",
+        "created_at": "2019-07-22 00:42:20",
+        "description": "\n選択した意気込みの詳細は、状況確認画面の\n画面上部の意気込みを押すことで\n確認することが可能です。",
+        "id": "57",
+        "image_path": "images/help_ten1/ikigomi_confirm.png",
+        "updated_at": "2019-07-22 00:42:20"
+    }
+]
