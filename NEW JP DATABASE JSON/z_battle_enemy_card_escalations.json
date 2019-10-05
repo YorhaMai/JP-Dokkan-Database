@@ -1,0 +1,674 @@
+[
+    {
+        "card_id": "1004220",
+        "created_at": "2017-11-08 10:30:56",
+        "escalation_type": "5",
+        "id": "1",
+        "level": "1",
+        "updated_at": "2017-11-08 10:30:56"
+    },
+    {
+        "card_id": "1003210",
+        "created_at": "2017-11-08 10:30:56",
+        "escalation_type": "5",
+        "id": "2",
+        "level": "15",
+        "updated_at": "2017-11-08 10:30:56"
+    },
+    {
+        "card_id": "2000641",
+        "created_at": "2017-11-28 04:30:58",
+        "escalation_type": "12",
+        "id": "3",
+        "level": "1",
+        "updated_at": "2017-12-20 06:41:42"
+    },
+    {
+        "card_id": "9000041",
+        "created_at": "2017-11-28 04:30:58",
+        "escalation_type": "12",
+        "id": "4",
+        "level": "15",
+        "updated_at": "2017-12-20 06:41:42"
+    },
+    {
+        "card_id": "9401361",
+        "created_at": "2018-01-12 01:44:31",
+        "escalation_type": "19",
+        "id": "5",
+        "level": "1",
+        "updated_at": "2018-01-12 01:44:31"
+    },
+    {
+        "card_id": "9400511",
+        "created_at": "2018-01-12 01:44:31",
+        "escalation_type": "19",
+        "id": "6",
+        "level": "6",
+        "updated_at": "2018-01-12 01:44:31"
+    },
+    {
+        "card_id": "1000361",
+        "created_at": "2018-01-12 01:44:31",
+        "escalation_type": "19",
+        "id": "7",
+        "level": "11",
+        "updated_at": "2018-01-12 01:44:31"
+    },
+    {
+        "card_id": "9401531",
+        "created_at": "2018-01-12 01:44:31",
+        "escalation_type": "19",
+        "id": "8",
+        "level": "16",
+        "updated_at": "2018-01-12 01:44:31"
+    },
+    {
+        "card_id": "9410221",
+        "created_at": "2018-01-12 01:44:31",
+        "escalation_type": "19",
+        "id": "9",
+        "level": "21",
+        "updated_at": "2018-01-12 01:44:31"
+    },
+    {
+        "card_id": "1003321",
+        "created_at": "2018-02-13 09:58:42",
+        "escalation_type": "26",
+        "id": "10",
+        "level": "1",
+        "updated_at": "2018-02-13 09:58:42"
+    },
+    {
+        "card_id": "1004251",
+        "created_at": "2018-02-13 09:58:42",
+        "escalation_type": "26",
+        "id": "11",
+        "level": "15",
+        "updated_at": "2018-02-13 09:58:42"
+    },
+    {
+        "card_id": "1004361",
+        "created_at": "2018-04-09 09:04:52",
+        "escalation_type": "40",
+        "id": "18",
+        "level": "1",
+        "updated_at": "2018-04-09 09:04:52"
+    },
+    {
+        "card_id": "1008941",
+        "created_at": "2018-04-09 09:04:52",
+        "escalation_type": "40",
+        "id": "19",
+        "level": "6",
+        "updated_at": "2018-04-09 09:04:52"
+    },
+    {
+        "card_id": "1004351",
+        "created_at": "2018-04-09 09:04:52",
+        "escalation_type": "40",
+        "id": "20",
+        "level": "11",
+        "updated_at": "2018-04-09 09:04:52"
+    },
+    {
+        "card_id": "1008931",
+        "created_at": "2018-04-09 09:04:52",
+        "escalation_type": "40",
+        "id": "21",
+        "level": "16",
+        "updated_at": "2018-04-09 09:04:52"
+    },
+    {
+        "card_id": "1004341",
+        "created_at": "2018-04-09 09:04:52",
+        "escalation_type": "40",
+        "id": "22",
+        "level": "21",
+        "updated_at": "2018-04-09 09:04:52"
+    },
+    {
+        "card_id": "1008921",
+        "created_at": "2018-04-09 09:04:52",
+        "escalation_type": "40",
+        "id": "23",
+        "level": "26",
+        "updated_at": "2018-04-09 09:04:52"
+    },
+    {
+        "card_id": "1003301",
+        "created_at": "2018-04-17 06:17:52",
+        "escalation_type": "47",
+        "id": "24",
+        "level": "1",
+        "updated_at": "2018-04-17 06:17:52"
+    },
+    {
+        "card_id": "1004651",
+        "created_at": "2018-04-17 06:17:52",
+        "escalation_type": "47",
+        "id": "25",
+        "level": "15",
+        "updated_at": "2018-04-17 06:17:52"
+    },
+    {
+        "card_id": "1006681",
+        "created_at": "2018-05-21 05:40:26",
+        "escalation_type": "54",
+        "id": "26",
+        "level": "1",
+        "updated_at": "2018-05-21 05:40:26"
+    },
+    {
+        "card_id": "1006701",
+        "created_at": "2018-05-21 05:40:26",
+        "escalation_type": "54",
+        "id": "27",
+        "level": "15",
+        "updated_at": "2018-05-21 05:40:26"
+    },
+    {
+        "card_id": "9014531",
+        "created_at": "2018-07-03 01:57:56",
+        "escalation_type": "61",
+        "id": "28",
+        "level": "1",
+        "updated_at": "2018-08-09 03:02:27"
+    },
+    {
+        "card_id": "9014511",
+        "created_at": "2018-07-03 01:57:56",
+        "escalation_type": "61",
+        "id": "29",
+        "level": "21",
+        "updated_at": "2018-08-09 03:02:27"
+    },
+    {
+        "card_id": "1014671",
+        "created_at": "2018-07-22 00:44:14",
+        "escalation_type": "68",
+        "id": "30",
+        "level": "1",
+        "updated_at": "2018-07-22 00:44:14"
+    },
+    {
+        "card_id": "1014681",
+        "created_at": "2018-07-22 00:44:14",
+        "escalation_type": "68",
+        "id": "31",
+        "level": "15",
+        "updated_at": "2018-07-22 00:44:14"
+    },
+    {
+        "card_id": "1012711",
+        "created_at": "2018-08-17 01:59:48",
+        "escalation_type": "82",
+        "id": "37",
+        "level": "1",
+        "updated_at": "2018-08-17 01:59:48"
+    },
+    {
+        "card_id": "1013481",
+        "created_at": "2018-08-17 01:59:48",
+        "escalation_type": "82",
+        "id": "38",
+        "level": "11",
+        "updated_at": "2018-08-17 01:59:48"
+    },
+    {
+        "card_id": "1013941",
+        "created_at": "2018-08-17 01:59:48",
+        "escalation_type": "82",
+        "id": "39",
+        "level": "21",
+        "updated_at": "2018-08-17 01:59:48"
+    },
+    {
+        "card_id": "9014701",
+        "created_at": "2018-08-17 01:59:48",
+        "escalation_type": "82",
+        "id": "40",
+        "level": "31",
+        "updated_at": "2018-08-17 01:59:48"
+    },
+    {
+        "card_id": "9013961",
+        "created_at": "2018-08-17 01:59:48",
+        "escalation_type": "82",
+        "id": "41",
+        "level": "41",
+        "updated_at": "2018-08-17 01:59:48"
+    },
+    {
+        "card_id": "1003771",
+        "created_at": "2018-09-03 01:44:26",
+        "escalation_type": "89",
+        "id": "42",
+        "level": "1",
+        "updated_at": "2018-09-03 01:44:26"
+    },
+    {
+        "card_id": "1003311",
+        "created_at": "2018-09-03 01:44:26",
+        "escalation_type": "89",
+        "id": "43",
+        "level": "15",
+        "updated_at": "2018-09-03 01:44:26"
+    },
+    {
+        "card_id": "1005631",
+        "created_at": "2018-09-18 02:29:54",
+        "escalation_type": "96",
+        "id": "44",
+        "level": "1",
+        "updated_at": "2018-09-18 02:29:54"
+    },
+    {
+        "card_id": "1005301",
+        "created_at": "2018-09-18 02:29:54",
+        "escalation_type": "96",
+        "id": "45",
+        "level": "15",
+        "updated_at": "2018-09-18 02:29:54"
+    },
+    {
+        "card_id": "1003071",
+        "created_at": "2018-10-23 04:02:41",
+        "escalation_type": "103",
+        "id": "46",
+        "level": "1",
+        "updated_at": "2018-10-23 04:02:41"
+    },
+    {
+        "card_id": "1005731",
+        "created_at": "2018-10-23 04:02:41",
+        "escalation_type": "103",
+        "id": "47",
+        "level": "15",
+        "updated_at": "2018-10-23 04:02:41"
+    },
+    {
+        "card_id": "1002801",
+        "created_at": "2018-10-30 07:22:30",
+        "escalation_type": "110",
+        "id": "48",
+        "level": "1",
+        "updated_at": "2018-10-30 07:22:30"
+    },
+    {
+        "card_id": "1005051",
+        "created_at": "2018-10-30 07:22:30",
+        "escalation_type": "110",
+        "id": "49",
+        "level": "15",
+        "updated_at": "2018-10-30 07:22:30"
+    },
+    {
+        "card_id": "9016061",
+        "created_at": "2018-12-14 01:56:43",
+        "escalation_type": "117",
+        "id": "50",
+        "level": "1",
+        "updated_at": "2018-12-14 01:56:43"
+    },
+    {
+        "card_id": "9016131",
+        "created_at": "2018-12-14 01:56:43",
+        "escalation_type": "117",
+        "id": "51",
+        "level": "15",
+        "updated_at": "2018-12-15 02:43:34"
+    },
+    {
+        "card_id": "1005271",
+        "created_at": "2018-12-20 07:49:29",
+        "escalation_type": "124",
+        "id": "52",
+        "level": "1",
+        "updated_at": "2018-12-20 07:49:29"
+    },
+    {
+        "card_id": "1005281",
+        "created_at": "2018-12-20 07:49:29",
+        "escalation_type": "124",
+        "id": "53",
+        "level": "15",
+        "updated_at": "2018-12-20 07:49:29"
+    },
+    {
+        "card_id": "1010351",
+        "created_at": "2019-01-11 05:17:24",
+        "escalation_type": "131",
+        "id": "54",
+        "level": "1",
+        "updated_at": "2019-01-11 05:17:24"
+    },
+    {
+        "card_id": "1010361",
+        "created_at": "2019-01-11 05:17:24",
+        "escalation_type": "131",
+        "id": "55",
+        "level": "15",
+        "updated_at": "2019-01-11 05:17:24"
+    },
+    {
+        "card_id": "1011331",
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "138",
+        "id": "56",
+        "level": "1",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "card_id": "1011341",
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "138",
+        "id": "57",
+        "level": "15",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "card_id": "1006411",
+        "created_at": "2019-02-05 09:22:39",
+        "escalation_type": "145",
+        "id": "58",
+        "level": "1",
+        "updated_at": "2019-02-05 09:22:39"
+    },
+    {
+        "card_id": "1008711",
+        "created_at": "2019-02-05 09:22:39",
+        "escalation_type": "145",
+        "id": "59",
+        "level": "11",
+        "updated_at": "2019-02-05 09:22:39"
+    },
+    {
+        "card_id": "1011311",
+        "created_at": "2019-02-05 09:22:39",
+        "escalation_type": "145",
+        "id": "60",
+        "level": "21",
+        "updated_at": "2019-02-05 09:22:39"
+    },
+    {
+        "card_id": "1011321",
+        "created_at": "2019-02-05 09:22:39",
+        "escalation_type": "145",
+        "id": "61",
+        "level": "31",
+        "updated_at": "2019-02-05 09:22:39"
+    },
+    {
+        "card_id": "9016471",
+        "created_at": "2019-02-05 09:22:39",
+        "escalation_type": "145",
+        "id": "62",
+        "level": "41",
+        "updated_at": "2019-02-13 06:49:01"
+    },
+    {
+        "card_id": "1009761",
+        "created_at": "2019-02-14 06:16:47",
+        "escalation_type": "152",
+        "id": "63",
+        "level": "1",
+        "updated_at": "2019-02-14 06:16:47"
+    },
+    {
+        "card_id": "1009541",
+        "created_at": "2019-02-14 06:16:47",
+        "escalation_type": "152",
+        "id": "64",
+        "level": "6",
+        "updated_at": "2019-02-14 06:16:47"
+    },
+    {
+        "card_id": "9009701",
+        "created_at": "2019-02-14 06:16:47",
+        "escalation_type": "152",
+        "id": "65",
+        "level": "11",
+        "updated_at": "2019-02-28 02:31:33"
+    },
+    {
+        "card_id": "9009711",
+        "created_at": "2019-02-14 06:16:47",
+        "escalation_type": "152",
+        "id": "66",
+        "level": "16",
+        "updated_at": "2019-02-28 02:31:33"
+    },
+    {
+        "card_id": "9016701",
+        "created_at": "2019-02-14 06:16:47",
+        "escalation_type": "152",
+        "id": "67",
+        "level": "21",
+        "updated_at": "2019-02-28 05:37:46"
+    },
+    {
+        "card_id": "1009711",
+        "created_at": "2019-02-18 01:46:45",
+        "escalation_type": "159",
+        "id": "68",
+        "level": "1",
+        "updated_at": "2019-02-18 01:46:45"
+    },
+    {
+        "card_id": "9009711",
+        "created_at": "2019-02-18 01:46:45",
+        "escalation_type": "159",
+        "id": "69",
+        "level": "21",
+        "updated_at": "2019-02-28 02:31:33"
+    },
+    {
+        "card_id": "1007931",
+        "created_at": "2019-02-21 05:51:49",
+        "escalation_type": "166",
+        "id": "70",
+        "level": "1",
+        "updated_at": "2019-02-21 05:51:49"
+    },
+    {
+        "card_id": "1006211",
+        "created_at": "2019-02-21 05:51:49",
+        "escalation_type": "166",
+        "id": "71",
+        "level": "15",
+        "updated_at": "2019-02-21 05:51:49"
+    },
+    {
+        "card_id": "1008731",
+        "created_at": "2019-03-06 06:15:18",
+        "escalation_type": "173",
+        "id": "72",
+        "level": "1",
+        "updated_at": "2019-03-06 06:15:18"
+    },
+    {
+        "card_id": "1007391",
+        "created_at": "2019-03-06 06:15:18",
+        "escalation_type": "173",
+        "id": "73",
+        "level": "15",
+        "updated_at": "2019-03-06 06:15:18"
+    },
+    {
+        "card_id": "1008841",
+        "created_at": "2019-03-26 10:02:57",
+        "escalation_type": "180",
+        "id": "74",
+        "level": "1",
+        "updated_at": "2019-03-26 10:02:57"
+    },
+    {
+        "card_id": "1008851",
+        "created_at": "2019-03-26 10:02:57",
+        "escalation_type": "180",
+        "id": "75",
+        "level": "15",
+        "updated_at": "2019-03-26 10:02:57"
+    },
+    {
+        "card_id": "1017151",
+        "created_at": "2019-05-14 02:51:25",
+        "escalation_type": "187",
+        "id": "76",
+        "level": "1",
+        "updated_at": "2019-05-14 02:51:25"
+    },
+    {
+        "card_id": "9017161",
+        "created_at": "2019-05-14 02:51:25",
+        "escalation_type": "187",
+        "id": "77",
+        "level": "15",
+        "updated_at": "2019-05-22 05:51:50"
+    },
+    {
+        "card_id": "1008101",
+        "created_at": "2019-05-21 05:38:01",
+        "escalation_type": "194",
+        "id": "78",
+        "level": "1",
+        "updated_at": "2019-05-21 05:38:01"
+    },
+    {
+        "card_id": "1008091",
+        "created_at": "2019-05-21 05:38:01",
+        "escalation_type": "194",
+        "id": "79",
+        "level": "15",
+        "updated_at": "2019-05-21 05:38:01"
+    },
+    {
+        "card_id": "1007451",
+        "created_at": "2019-06-05 05:13:02",
+        "escalation_type": "201",
+        "id": "80",
+        "level": "1",
+        "updated_at": "2019-06-05 05:13:02"
+    },
+    {
+        "card_id": "1007461",
+        "created_at": "2019-06-05 05:13:02",
+        "escalation_type": "201",
+        "id": "81",
+        "level": "15",
+        "updated_at": "2019-06-05 05:13:02"
+    },
+    {
+        "card_id": "1010801",
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": "208",
+        "id": "82",
+        "level": "1",
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": "1010791",
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": "208",
+        "id": "83",
+        "level": "3",
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": "1009931",
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": "208",
+        "id": "84",
+        "level": "6",
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": "9009901",
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": "208",
+        "id": "85",
+        "level": "11",
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": "9009911",
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": "208",
+        "id": "86",
+        "level": "16",
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": "1009921",
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": "208",
+        "id": "87",
+        "level": "21",
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": "1009891",
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": "208",
+        "id": "88",
+        "level": "26",
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": "9008811",
+        "created_at": "2019-07-11 08:07:17",
+        "escalation_type": "215",
+        "id": "89",
+        "level": "1",
+        "updated_at": "2019-07-11 09:00:19"
+    },
+    {
+        "card_id": "9008821",
+        "created_at": "2019-07-11 08:07:17",
+        "escalation_type": "215",
+        "id": "90",
+        "level": "15",
+        "updated_at": "2019-07-11 09:00:19"
+    },
+    {
+        "card_id": "1003761",
+        "created_at": "2019-08-06 09:17:40",
+        "escalation_type": "222",
+        "id": "91",
+        "level": "1",
+        "updated_at": "2019-08-06 09:17:40"
+    },
+    {
+        "card_id": "1003301",
+        "created_at": "2019-08-06 09:17:40",
+        "escalation_type": "222",
+        "id": "92",
+        "level": "11",
+        "updated_at": "2019-08-06 09:17:40"
+    },
+    {
+        "card_id": "1001691",
+        "created_at": "2019-08-06 09:17:40",
+        "escalation_type": "222",
+        "id": "93",
+        "level": "21",
+        "updated_at": "2019-08-06 09:17:40"
+    },
+    {
+        "card_id": "1004651",
+        "created_at": "2019-08-06 09:17:40",
+        "escalation_type": "222",
+        "id": "94",
+        "level": "31",
+        "updated_at": "2019-08-06 09:17:40"
+    },
+    {
+        "card_id": "9018081",
+        "created_at": "2019-08-06 09:17:40",
+        "escalation_type": "222",
+        "id": "95",
+        "level": "41",
+        "updated_at": "2019-08-06 09:17:40"
+    }
+]

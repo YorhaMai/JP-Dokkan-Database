@@ -1,0 +1,52 @@
+[
+    {
+        "area_tab_id": "1",
+        "created_at": "2018-12-11 01:35:15",
+        "description": "追憶の扉「物語」の一覧にある\nステージに挑戦することができる",
+        "id": "1",
+        "name": "物語の鍵",
+        "rarity": "0",
+        "selling_exchange_point": "10",
+        "updated_at": "2018-12-11 01:35:15"
+    },
+    {
+        "area_tab_id": "2",
+        "created_at": "2018-12-11 01:35:15",
+        "description": "追憶の扉「育成」の一覧にある\nステージに挑戦することができる",
+        "id": "2",
+        "name": "育成の鍵",
+        "rarity": "0",
+        "selling_exchange_point": "10",
+        "updated_at": "2018-12-11 01:35:15"
+    },
+    {
+        "area_tab_id": "3",
+        "created_at": "2018-12-11 01:35:15",
+        "description": "追憶の扉「挑戦」の一覧にある\nステージに挑戦することができる",
+        "id": "3",
+        "name": "挑戦の鍵",
+        "rarity": "0",
+        "selling_exchange_point": "10",
+        "updated_at": "2018-12-11 01:35:15"
+    },
+    {
+        "area_tab_id": "4",
+        "created_at": "2018-12-11 01:35:15",
+        "description": "追憶の扉「限定」の一覧にある\nステージに挑戦することができる",
+        "id": "4",
+        "name": "限定の鍵",
+        "rarity": "0",
+        "selling_exchange_point": "0",
+        "updated_at": "2019-09-04 02:03:32"
+    },
+    {
+        "area_tab_id": "999",
+        "created_at": "2018-12-11 01:35:15",
+        "description": "追憶の扉「Zバトル」の一覧にある\nステージに挑戦することができる",
+        "id": "5",
+        "name": "Zバトルの鍵",
+        "rarity": "0",
+        "selling_exchange_point": "10",
+        "updated_at": "2018-12-11 01:35:15"
+    }
+]

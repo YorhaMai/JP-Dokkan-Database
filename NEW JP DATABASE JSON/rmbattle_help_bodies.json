@@ -1,0 +1,194 @@
+[
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "バーチャルドッカン大乱戦 Ver.2.0は、\n{color: #FFFF00}ランク150以上から参加可能{color}な\n新たなバトルモードです。",
+        "id": "1",
+        "image_path": "",
+        "rmbattle_help_id": "2",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "コンティニューは行えず\nサポートアイテムも持ち込めませんが、\n{color: #FFFF00}ACTを消費しません。{color}",
+        "id": "2",
+        "image_path": "images/help/rmb_help_001_A.png",
+        "rmbattle_help_id": "2",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "バーチャルドッカン大乱戦 Ver.2.0では、\n参加するキャラクターとして\n{color: #FFFF00}UR・LRのキャラクターを\n最大112体まで選択することが可能{color}です。",
+        "id": "3",
+        "image_path": "",
+        "rmbattle_help_id": "3",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "「おまかせ」を押すことで\nステータスの合計が高いキャラクター順に\n112体選出することが可能です。\n\nまた、参加するキャラクターは\n{color: #FFFF00}同名キャラクターを選択することが可能{color}です。",
+        "id": "4",
+        "image_path": "images/help/rmb_help_002_A.png",
+        "rmbattle_help_id": "3",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "各ステージの敵を撃破するとステージクリアとなります。\nステージクリアで報酬を獲得できます。\n\n「？マーク」の周りのステージをすべてクリアすると\nボスの登場するステージが出現します。\n\nボスの登場するステージをクリアするとLEVELクリアとなります。\n\nLEVELは複数あり、すべてのLEVELをクリアするとゲームクリアとなります。",
+        "id": "5",
+        "image_path": "images/help/rmb_help_003.png",
+        "rmbattle_help_id": "4",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "バトルに参加するキャラクターとして\n最大7体のキャラクターを選択して\n敵と闘います。",
+        "id": "6",
+        "image_path": "",
+        "rmbattle_help_id": "5",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "7体のうち\n最初に選択したキャラクターは「リーダー」\n2番目に選択したキャラクターは\n{color: #FFFF00}「サブリーダー」{color}となり、\n「サブリーダー」も「リーダー」と同様に\n{color: #FFFF00}リーダースキルを発動することが可能{color}です。",
+        "id": "7",
+        "image_path": "images/help/rmb_help_004.png",
+        "rmbattle_help_id": "5",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "バトルに参加できるキャラクターは\n全く同じキャラクターを選択することができませんが\n{color: #FFFF00}二つ名が違う同名キャラクターを選択する事が可能{color}です。",
+        "id": "8",
+        "image_path": "images/help/rmb_help_005.png",
+        "rmbattle_help_id": "5",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "通常のバトルとは違い、\nコンティニューは行えず\nサポートアイテムも持ち込めません。",
+        "id": "9",
+        "image_path": "",
+        "rmbattle_help_id": "6",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "一度バトルに参加したキャラクターは\nゲームオーバーにならない限り\n再度バトルに参加することができません。\n\n敵のHPはバトルで敗北しても\nゲームオーバーにならない限り引き継ぎます。",
+        "id": "10",
+        "image_path": "images/help/rmb_help_006.png",
+        "rmbattle_help_id": "6",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "残りキャラクター数が0になると\nゲームオーバーになります。\n\n残りキャラクター数が0の場合は\nバトルに勝利してもゲームオーバーになります。\n※最後のボスバトルは\n　残りキャラクター数が0でクリアしても\n　ゲームクリアとなります。",
+        "id": "11",
+        "image_path": "",
+        "rmbattle_help_id": "7",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "残りキャラクター数は各画面の下部や\n「状況確認画面」で確認することができます。",
+        "id": "12",
+        "image_path": "images/help/rmb_help_007.png",
+        "rmbattle_help_id": "7",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "また、大乱戦TOPのリタイアボタンを押すと\nその場で大乱戦を終了することができます。",
+        "id": "13",
+        "image_path": "images/help/rmb_help_008.png",
+        "rmbattle_help_id": "7",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "リタイアした場合や\nバトルで負けてゲームオーバーになった場合は、\nクリアしていないステージの報酬を\n獲得することはできません。",
+        "id": "14",
+        "image_path": "images/help/rmb_help_009.png",
+        "rmbattle_help_id": "7",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "特定の条件を満たすことで\n「ミッション報酬」を獲得することができます。",
+        "id": "15",
+        "image_path": "",
+        "rmbattle_help_id": "8",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "ミッション達成条件や報酬内容は\nTOP画面にある「ミッション」より\n確認することができます。",
+        "id": "16",
+        "image_path": "images/help/rmb_help_010.png",
+        "rmbattle_help_id": "8",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "{center : begin}{size : 24}{color : #FFFF00}{outline : #FF0000, 2}新たな形へ進化した大乱戦を制覇せよ！{outline}{color}{size}{center}",
+        "id": "17",
+        "image_path": "",
+        "rmbattle_help_id": "1",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "\nバーチャルドッカン大乱戦 Ver.2.0は、\nレアリティが{color: #FFFF00}UR・LR{color}のキャラクター\n{color: #FFFF00}最大112体{color}で挑む新たなバトルモードだ!!",
+        "id": "18",
+        "image_path": "images/help/rmb_help_011.png",
+        "rmbattle_help_id": "1",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "コンティニューは行えず\nサポートアイテムも持ち込めないが、\n{color: #FFFF00}ACTを消費しない{color}ぞ!!\n\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}バトル{outline}{color}{size}\n\nバトルに参加するキャラクターは\n最大7体のキャラクターを選択することが可能。",
+        "id": "19",
+        "image_path": "",
+        "rmbattle_help_id": "1",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "フレンドを選択することができないが、\n自身の仲間の中から{color: #FFFF00}「サブリーダー」{color}を１体選ぶことで\nリーダーと合わせて{color: #FFFF00}2体分のリーダースキルが発動する{color}ぞ!!",
+        "id": "20",
+        "image_path": "images/help/rmb_help_012.png",
+        "rmbattle_help_id": "1",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "各ステージの敵を撃破するとステージクリアとなり、\nステージクリアで報酬を獲得できるぞ！\n\n「？マーク」の周りのステージをすべてクリアすると\nボスの登場するステージが出現！\n\nボスの登場するステージをクリアすると\nLEVELクリアだ！\n\nLEVELは複数あるので、すべてのLEVELをクリアし\nゲームクリアを目指そう！",
+        "id": "21",
+        "image_path": "",
+        "rmbattle_help_id": "1",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "出現する敵はどれも強力！\n\n育てた仲間たちを\nどのステージに出撃させるかを考えながら\n攻略していこう!!",
+        "id": "22",
+        "image_path": "images/help/rmb_help_003.png",
+        "rmbattle_help_id": "1",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "強力なリーダースキルを発動させて\n一気に敵を打ち倒そう!!",
+        "id": "23",
+        "image_path": "images/help/rmb_help_006.png",
+        "rmbattle_help_id": "1",
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-22 00:51:01",
+        "description": "各ステージの初回クリア報酬などで獲得できる\n秘宝「激闘の記憶」は開催期間が終了した後も残り、\n次回以降の開催時にも同じものが使用できるぞ！\n\n交換に「激闘の記憶」がたくさん必要な時は\n1回の大乱戦が終了した後も使用せずに貯めて、\n足りない分は次回以降の大乱戦で集めよう!!",
+        "id": "24",
+        "image_path": "",
+        "rmbattle_help_id": "9",
+        "updated_at": "2019-07-22 00:51:01"
+    }
+]

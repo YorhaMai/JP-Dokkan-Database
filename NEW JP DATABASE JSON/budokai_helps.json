@@ -1,0 +1,191 @@
+[
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "1",
+        "num": "1000",
+        "title": "基本ルール",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "2",
+        "num": "990",
+        "title": "トーナメントへの参加",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "3",
+        "num": "980",
+        "title": "武道会pt",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "4",
+        "num": "970",
+        "title": "ランキング",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "5",
+        "num": "960",
+        "title": "クラスとリーグ",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "2",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "6",
+        "num": "950",
+        "title": "すごろくの進め方",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "2",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "7",
+        "num": "940",
+        "title": "発生イベント",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "2",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "8",
+        "num": "930",
+        "title": "すごろくでの獲得物",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "2",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "9",
+        "num": "920",
+        "title": "すごろく終了契機",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "3",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "10",
+        "num": "910",
+        "title": "バトルの進め方",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "3",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "11",
+        "num": "900",
+        "title": "バトルでの獲得pt",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "3",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "12",
+        "num": "890",
+        "title": "バトル終了契機",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "4",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "13",
+        "num": "880",
+        "title": "報酬と獲得物",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "4",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "14",
+        "num": "870",
+        "title": "ランキング報酬",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "4",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "15",
+        "num": "860",
+        "title": "ミッション報酬",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "16",
+        "num": "850",
+        "title": "フレンド",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "17",
+        "num": "840",
+        "title": "ポイントボーナス",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "18",
+        "num": "830",
+        "title": "ローカルランキング",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "4",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "19",
+        "num": "820",
+        "title": "ローカルランキング報酬",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "20",
+        "num": "810",
+        "title": "連覇達成ボーナス",
+        "updated_at": "2017-11-14 01:42:19"
+    },
+    {
+        "budokai_help_category_id": "1",
+        "created_at": "2017-11-14 01:42:19",
+        "description": "<ここは表示されません>",
+        "id": "21",
+        "num": "800",
+        "title": "意気込み",
+        "updated_at": "2017-11-14 01:42:19"
+    }
+]
